@@ -1,0 +1,252 @@
+/* Certification level badges */
+.cert-level {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+  margin-left: 0.3rem;
+}
+.cert-level-foundational { background: #8C9EFF; color: #fff; }
+.cert-level-associate   { background: #FFB300; color: #1a1a1a; }
+.cert-level-professional{ background: #E53935; color: #fff; }
+.cert-level-specialty   { background: #7B1FA2; color: #fff; }
+
+/* Admonition compactness tweaks */
+.admonition.tip p, .admonition.warning p, .admonition.note p {
+  margin: 0.3rem 0;
+}
+.admonition.tip .admonition-title, 
+.admonition.warning .admonition-title,
+.admonition.note .admonition-title,
+.admonition.info .admonition-title,
+.admonition.danger .admonition-title {
+  font-size: 0.85rem;
+}
+
+/* Grid enhancements */
+.grid.cards {
+  margin: 1rem 0;
+}
+
+/* Certification header card — badge + meta */
+.cert-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 1.2rem 1.5rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.4rem;
+  background: var(--md-default-bg-color);
+}
+
+.cert-badge {
+  flex: 0 0 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cert-badge img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.cert-badge-body {
+  flex: 1;
+  min-width: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.3rem;
+}
+
+.cert-badge-body .cert-level {
+  margin-left: 0;
+}
+
+/* Badge grid on homepage */
+.badge-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.badge-grid a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.3rem;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.15s;
+}
+.badge-grid a:hover {
+  box-shadow: var(--md-shadow-z2);
+}
+.badge-grid img {
+  max-width: 120px;
+  height: auto;
+}
+.badge-grid .badge-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+/* Small inline badge for overview/recommendation tables */
+.badge-inline {
+  max-width: 48px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 0.3rem;
+}
+
+/* Compact tables - reduce row height */
+.md-typeset table:not(.cert-header *) {
+  display: table;
+}
+.md-typeset table th,
+.md-typeset table td {
+  padding: 0.4rem 0.6rem;
+  vertical-align: middle;
+}
+
+/* Quick Reference: three-column table */
+.md-typeset .quick-ref-wrapper table {
+  width: 100%;
+  table-layout: fixed;
+}
+.md-typeset .quick-ref-wrapper th,
+.md-typeset .quick-ref-wrapper td {
+  padding: 0.65rem 0.75rem !important;
+  vertical-align: middle;
+  line-height: 1.5;
+}
+.md-typeset .quick-ref-wrapper th:nth-child(1),
+.md-typeset .quick-ref-wrapper td:nth-child(1) {
+  width: 22%;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.md-typeset .quick-ref-wrapper th:nth-child(2),
+.md-typeset .quick-ref-wrapper td:nth-child(2) {
+  width: 23%;
+}
+.md-typeset .quick-ref-wrapper th:nth-child(3),
+.md-typeset .quick-ref-wrapper td:nth-child(3) {
+  width: 55%;
+}
+.md-typeset .quick-ref-wrapper .arrow {
+  color: var(--md-default-fg-color--light);
+  font-weight: 400;
+}
+.md-typeset .quick-ref-wrapper .or {
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+  font-size: 0.85rem;
+}
+@media (max-width: 640px) {
+  .md-typeset .quick-ref-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .md-typeset .quick-ref-wrapper table {
+    min-width: 560px;
+  }
+}
+
+/* Text progression flow */
+.progression-text {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.8rem 1rem;
+  margin: 0.8rem 0;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.3rem;
+  font-size: 0.9rem;
+}
+.progression-text .step {
+  font-weight: 700;
+}
+.progression-text .arrow {
+  color: var(--md-default-fg-color--light);
+  font-weight: 700;
+}
+
+/* =========================================================================
+   Layout: wider content area for widescreen displays
+   ========================================================================= */
+
+/* Widen the main grid container to use ~90% of available width */
+.md-grid {
+  max-width: 90%;
+}
+
+/* Cap at a comfortable maximum for ultra-wide monitors */
+@media (min-width: 2000px) {
+  .md-grid {
+    max-width: 1800px;
+  }
+}
+
+/* Keep body prose at a readable width (~75 characters per line) */
+.md-typeset p,
+.md-typeset li {
+  max-width: 75ch;
+}
+
+/* =========================================================================
+   Wiki at a Glance: stat cards
+   ========================================================================= */
+
+.stat-cards {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.stat-card {
+  flex: 1;
+  text-align: center;
+  padding: 1rem 0.8rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.3rem;
+  background: var(--md-default-bg-color);
+}
+.stat-number {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--md-typeset-color);
+}
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.15rem;
+}
+@media (max-width: 480px) {
+  .stat-cards {
+    flex-direction: column;
+  }
+}
+
+/* Allow tables and structural elements to use the full available width */
+.md-typeset table,
+.md-typeset .grid,
+.md-typeset .admonition,
+.md-typeset .progression-text,
+.md-typeset .cert-header {
+  max-width: none;
+}

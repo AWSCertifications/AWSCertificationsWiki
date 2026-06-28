@@ -1,0 +1,115 @@
+site_name: r/AWSCertifications Wiki
+site_url: https://awscertifications.github.io/AWSCertificationsWiki/
+site_description: Community-maintained AWS Certification knowledge base — exam guides, discounts, study resources, and FAQ for r/AWSCertifications
+site_author: r/AWSCertifications Community
+
+repo_url: https://github.com/AWSCertifications/AWSCertificationsWiki
+repo_name: AWSCertifications/AWSCertificationsWiki
+edit_uri: edit/main/docs/
+
+copyright: >
+  &copy; r/AWSCertifications Community &mdash;
+  <a href="#__consent">Cookie settings</a>
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://reddit.com/r/AWSCertifications
+      name: r/AWSCertifications on Reddit
+    - icon: fontawesome/brands/github
+      link: https://github.com/AWSCertifications/AWSCertificationsWiki
+      name: AWSCertificationsWiki on GitHub
+  generator: false
+  consent:
+    title: Cookie consent
+    description: We use cookies to recognize your repeated visits and preferences
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+  - glightbox
+
+nav:
+  - Home: index.md
+
+  - Certification Pathways: certification-pathways.md
+
+  - Vouchers & Discounts: vouchers-discounts.md
+
+  - Programs & Initiatives:
+      - AWS Cloud Institute: aws-cloud-institute.md
+      - AWS Community Builder: aws-community-builder.md
+      - Programs for Women, Military & Students: programs-similar-skills-to-jobs.md
+
+  - FAQ:
+      - Exam Results: exam-results.md
+      - Free Learning: free-learning.md
+      - Digital Badges: digital-badges.md
+      - ETC Rewards: etc-rewards.md
+      - Tutorials Dojo: tutorialsdojo.md
+      - Exam Benefits: exam-benefits.md
+      - Practice Exam Scores: practice-exam-scores.md
+      - Projects & Hands-on: projects-hands-on.md
+      - Microcredentials: microcredentials.md
+      - Contributor Guide: contributor-guide.md
+      - Community Rules: subreddit-rules.md
+
+  - Foundational:
+      - Cloud Practitioner: foundational/cloud-practitioner.md
+      - AI Practitioner: foundational/ai-practitioner.md
+
+  - Associate:
+      - Solutions Architect: associate/solutions-architect.md
+      - Developer: associate/developer.md
+      - Data Engineer: associate/data-engineer.md
+      - Machine Learning: associate/machine-learning.md
+      - CloudOps: associate/cloudops.md
+
+  - Professional:
+      - Solutions Architect Professional: professional/solutions-architect-pro.md
+      - DevOps Engineer Professional: professional/devops-engineer-pro.md
+      - GenAI Developer Professional: professional/genai-developer-pro.md
+
+  - Specialty:
+      - Security: specialty/security.md
+      - Advanced Networking: specialty/advanced-networking.md
