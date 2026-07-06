@@ -123,11 +123,38 @@ Covers all domain-specific learning. The new interface shows both free and paid 
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- [Cloud Quest: Generative AI](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V) — earn a free badge
-- [Card Clash: Architecture Design Game](https://skillbuilder.aws/learn/7V665TRGMY/aws-card-clash--an-architecture-design-game/7RJQ9341Z8)
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier includes services relevant to AI/ML practice, such as Amazon Bedrock (free tier for model inference), SageMaker (2 months free), and Lambda. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers guided AI/ML labs covering Amazon Bedrock, SageMaker, and foundational AI services. Labs provide temporary AWS accounts for safe experimentation.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### AI/ML Services to Practice
+
+- **Amazon Bedrock** — Experiment with foundation models, agents, and knowledge bases.
+- **Amazon SageMaker** — Build, train, and deploy machine learning models.
+- **AWS Lambda** — Build serverless AI workflows and data processing pipelines.
+- **Amazon Transcribe / Polly / Rekognition** — Practice with AWS AI services covered in the exam.
+
+### AWS Cloud Quest
+
+Cloud Quest: Generative AI is a free gamified learning experience that covers Bedrock, agents, and prompt engineering through hands-on challenges.
+
+[Cloud Quest: Generative AI](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V)
+
+### Additional Resources
+
+- [Card Clash: Architecture Design Game](https://skillbuilder.aws/learn/7V665TRGMY/aws-card-clash--an-architecture-design-game/7RJQ9341Z8) — Free architectural pattern game on Skill Builder
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

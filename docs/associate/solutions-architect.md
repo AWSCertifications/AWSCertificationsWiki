@@ -150,12 +150,32 @@ Books go out of date quickly. The Sybex guide, TutorialsDojo ebook, and Neil Dav
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
-- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
-- [Cloud Resume Challenge](https://cloudresumechallenge.dev/) — build a serverless resume website
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers core SAA services: EC2 (750 hours/month), S3 (5 GB), RDS (750 hours), and Lambda (1 million requests). Use the free tier to build multi-tier architectures, VPC configurations, and hybrid storage solutions. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Builder Labs
+
+Builder Labs provide browser-based, step-by-step environments aligned with SAA objectives. Labs cover VPC design, EC2 auto scaling, S3 lifecycle policies, and RDS configurations with temporary AWS accounts.
+
+[AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers additional guided labs focused on architectural patterns including high availability, fault tolerance, and disaster recovery scenarios.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### Architecture Projects
+
+- **Cloud Resume Challenge** — Build a serverless resume website using S3, Lambda, DynamoDB, API Gateway, and CloudFront. A popular community project that covers many SAA concepts.
+- **KodeKloud** — AWS architecture scenarios with hands-on labs covering VPC design, EC2 auto scaling, load balancing, and hybrid networking.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

@@ -123,10 +123,43 @@ None worth it.
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers security services: IAM (free), KMS (20,000 requests/month), CloudTrail (free), and Config (free). Build identity policies, encrypt data, and set up detective controls. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Builder Labs
+
+Builder Labs provide guided environments for security services including IAM, KMS, and CloudTrail with temporary AWS accounts.
+
+[AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers additional security labs covering GuardDuty, Security Hub, Inspector, and advanced IAM policies.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### Security Services to Practice
+
+- **AWS IAM** — Write fine-grained policies, set up permission boundaries, and implement least-privilege access.
+- **AWS KMS** — Create and manage keys, enable envelope encryption, and configure key rotation.
+- **Amazon GuardDuty** — Set up threat detection and automate response with EventBridge and Lambda.
+- **AWS Security Hub** — Aggregate findings from GuardDuty, Inspector, Config, and third-party tools.
+- **Amazon Inspector** — Automate vulnerability assessments for EC2 and container workloads.
+- **AWS Config** — Write Config rules for compliance monitoring and remediation.
+- **AWS WAF** — Build web ACLs and rate-based rules to protect applications.
+
+### Third-Party Platforms
+
+- **KodeKloud** — Security-focused labs covering IAM policies, KMS, and security automation scenarios.
+- **Whizlabs** — Sandbox for practicing AWS security configurations.
+- **Cloud Academy** — Structured security learning paths with hands-on labs.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

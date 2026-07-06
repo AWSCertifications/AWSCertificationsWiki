@@ -101,11 +101,38 @@ The [Skill Builder search for MLA](https://skillbuilder.aws/search?page=1&examCe
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
-- [Microcredentials](../microcredentials.md) — hands-on skill validation
+### AWS Free Tier
+
+The AWS Free Tier includes SageMaker (2 months free, 250 hours/month of Studio), Bedrock (free tier for model inference), and Lambda (1 million requests). Build ML pipelines, train models, and deploy endpoints for experimentation. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers guided labs for SageMaker, Bedrock, and ML services. Labs provide temporary AWS accounts for safe experimentation.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### AWS Builder Labs
+
+Builder Labs include step-by-step ML environments covering SageMaker notebook instances, model training, and endpoint deployment.
+
+[AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+
+### ML/AI Services to Practice
+
+- **Amazon SageMaker** — Build, train, tune, and deploy ML models using Studio, Canvas, and Autopilot.
+- **Amazon Bedrock** — Experiment with foundation models, knowledge bases, agents, and guardrails.
+- **AWS Lambda** — Build ML inference pipelines and data preprocessing workflows.
+- **Amazon Comprehend / Rekognition / Transcribe** — Practice with AWS AI services covered in the exam.
+
+### Microcredentials
+
+The AWS Machine Learning microcredential includes a hands-on assessment that validates practical ML skills. [Learn more](../microcredentials.md)
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

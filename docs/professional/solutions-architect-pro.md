@@ -144,10 +144,35 @@ Official AWS service-specific learning programs that award Credly digital badges
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers services relevant to SAP scenarios: EC2 (750 hours/month), S3 (5 GB), Lambda (1 million requests), and CloudFormation. Build multi-account architectures, hybrid networking, and migration scenarios. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### Advanced Architecture Labs
+
+At the Professional level, focus on production-style projects that demonstrate enterprise-scale design patterns:
+
+- **Multi-account strategies** — Practice with AWS Organizations, SCPs, and delegated administration using a sandbox account.
+- **Hybrid networking** — Configure VPN connections, Direct Connect gateways, and Transit Gateway with route tables.
+- **Migration scenarios** — Use AWS Migration Hub, DMS, and MGN to simulate large-scale migrations.
+- **Disaster recovery** — Implement cross-region replication, Route 53 failover, and Aurora Global Database.
+
+### AWS Skill Builder Labs
+
+Skill Builder offers advanced labs covering Organizations, Control Tower, migration, and hybrid architectures.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### Third-Party Platforms
+
+- **KodeKloud** — Advanced AWS architecture scenarios covering multi-region deployments and hybrid cloud.
+- **Cloud Academy** — Enterprise-focused AWS architecture labs for Professional-level scenarios.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

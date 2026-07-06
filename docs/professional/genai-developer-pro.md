@@ -135,10 +135,38 @@ Official AWS service-specific learning programs that award Credly digital badges
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- [Agentic AI Micro Credential](../microcredentials.md) — hands-on assessment covering AIP curriculum areas
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers Bedrock (free tier model inference), SageMaker (2 months free), and Lambda (1 million requests). Build generative AI applications, agents, and knowledge bases without upfront costs. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers labs for Bedrock, agents, knowledge bases, and prompt engineering with temporary AWS accounts.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### GenAI Services to Practice
+
+- **Amazon Bedrock** — Experiment with foundation models, create agents with action groups, and build knowledge bases for RAG.
+- **Bedrock Agents** — Build AI agents that execute multi-step tasks using Lambda functions and knowledge bases.
+- **Bedrock Knowledge Bases** — Implement Retrieval-Augmented Generation (RAG) with vector stores and S3 data sources.
+- **Prompt engineering** — Practice prompt design, few-shot prompting, and model configuration for different use cases.
+- **Amazon SageMaker** — Fine-tune models and deploy custom generative AI solutions.
+- **AWS Lambda** — Build serverless workflows for AI agent orchestration.
+
+### Microcredentials
+
+The Agentic AI Microcredential includes a hands-on assessment covering many AIP curriculum areas. [Learn more](../microcredentials.md)
+
+### Third-Party Platforms
+
+- **KodeKloud** — AI/ML scenarios covering Bedrock and SageMaker integrations.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

@@ -5,6 +5,21 @@
 
 ---
 
+## Platform Comparison
+
+| Provider | Best For | Free Tier | Guided Labs | Sandbox | Certification Focus |
+|----------|----------|-----------|-------------|---------|-------------------|
+| **AWS Free Tier** | Experimenting with real AWS services at no cost | ✅ Permanent | ❌ | ❌ | All certifications |
+| **AWS Skill Builder Labs** | Official guided labs aligned with exam objectives | ✅ 1 free lab/month | ✅ | ✅ | All certifications |
+| **AWS Builder Labs** | Browser-based step-by-step environments | ✅ Free tier includes labs | ✅ | ✅ | Associate and above |
+| **AWS Cloud Quest** | Gamified learning for beginners | ✅ 2 quests free | ✅ | ✅ | Foundational, Associate |
+| **KodeKloud** | Hands-on AWS and DevOps scenarios | ✅ Free labs available | ✅ | ✅ | Associate, Professional |
+| **Whizlabs** | AWS sandbox with exam-focused practice | ❌ | ❌ | ✅ | All certifications |
+| **Cloud Academy** | Structured learning paths with labs | ❌ | ✅ | ✅ | Associate, Professional, Specialty |
+| **A Cloud Guru / Pluralsight** | AWS sandbox and video courses | ❌ | ✅ | ✅ | All certifications |
+
+---
+
 ## Free AWS-Specific Resources
 
 | Resource | Notes |

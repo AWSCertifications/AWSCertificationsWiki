@@ -188,11 +188,42 @@ Based on the exam guide and community feedback, focus on these services:
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
-- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers key DEA services: AWS Glue (1 million objects/month), S3 (5 GB), Lambda (1 million requests), and Redshift (750 hours). Build ETL pipelines, data lakes, and analytics dashboards. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers guided labs for data engineering services including Glue, Athena, EMR, Redshift, and Lake Formation. Labs provide temporary AWS accounts for safe experimentation.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### AWS Builder Labs
+
+Builder Labs include step-by-step environments covering Glue ETL jobs, Kinesis data streams, and Athena queries with temporary AWS accounts.
+
+[AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+
+### Data Engineering Services to Practice
+
+- **AWS Glue** — Build crawlers, ETL jobs, Glue Studio visual pipelines, and DataBrew recipes.
+- **Amazon Athena** — Query data lakes with standard SQL using S3 and Glue Data Catalog.
+- **Amazon EMR** — Run Spark and Hadoop clusters for large-scale data processing.
+- **Amazon Redshift** — Set up data warehouses, spectrum queries, and materialized views.
+- **Amazon Kinesis** — Stream data with Data Streams, transform with Data Firehose, and analyze with Data Analytics.
+- **AWS Lake Formation** — Set up data lakes with fine-grained access control.
+
+### Third-Party Platforms
+
+- **KodeKloud** — Data engineering scenarios covering Glue and EMR lab exercises.
+- **Cloud Academy** — Structured data engineering learning paths with hands-on labs.
+- **A Cloud Guru / Pluralsight** — Includes data-focused AWS sandboxes. Best if you have free access through work.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

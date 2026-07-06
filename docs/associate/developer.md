@@ -135,11 +135,41 @@ Books go out of date quickly. Video courses are recommended instead. Sybex, Tuto
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
-- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers core DVA services: Lambda (1 million requests/month), API Gateway (1 million API calls), DynamoDB (25 GB), and S3 (5 GB). Build serverless APIs, event-driven architectures, and CI/CD pipelines without incurring costs. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Builder Labs
+
+Builder Labs provide guided environments for developer-focused services including Lambda, API Gateway, DynamoDB, and CodePipeline. Labs use temporary AWS accounts so you can practice without risk.
+
+[AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers additional labs covering CI/CD pipelines, serverless application development, and the AWS CDK.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### Developer Services to Practice
+
+- **AWS Lambda** — Write and deploy functions, configure triggers from S3, DynamoDB Streams, and API Gateway.
+- **Amazon API Gateway** — Build REST and HTTP APIs with authentication, throttling, and caching.
+- **Amazon DynamoDB** — Design tables, use secondary indexes, implement DynamoDB Streams with Lambda.
+- **AWS CodePipeline / CodeBuild / CodeDeploy** — Build end-to-end CI/CD pipelines for serverless and container applications.
+- **Amazon S3** — Configure event notifications, static website hosting, and versioning.
+
+### Third-Party Platforms
+
+- **KodeKloud** — Developer-oriented AWS labs covering Lambda, CI/CD, and containerization.
+- **Whizlabs** — Sandbox environment for practicing AWS developer services.
+- **A Cloud Guru / Pluralsight** — Includes sandboxes for lab exercises. Best if you have free access through work.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

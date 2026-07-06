@@ -135,10 +135,41 @@ Official AWS service-specific learning programs that award Credly digital badges
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers networking services: VPC (free), Route 53 (50 hosted zones), CloudFront (1 TB transfer), and Network Firewall (free tier). Build complex network topologies, configure DNS routing, and set up hybrid connectivity. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Builder Labs
+
+Builder Labs provide guided environments for networking services including VPC design, VPN configuration, and Route 53 routing policies with temporary AWS accounts.
+
+[AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers additional networking labs covering Transit Gateway, Direct Connect, Network Firewall, and advanced VPC features.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### Networking Services to Practice
+
+- **Amazon VPC** — Design multi-tier VPCs with public/private subnets, NAT gateways, VPC endpoints, and peering.
+- **AWS Transit Gateway** — Connect multiple VPCs and on-premises networks with centralized routing.
+- **Amazon Route 53** — Configure routing policies (geolocation, latency, failover), private hosted zones, and DNS resolution.
+- **AWS Direct Connect** — Understand virtual interfaces, link aggregation, and failover configurations.
+- **AWS Network Firewall** — Build stateful firewall rules and intrusion prevention policies.
+- **Elastic Load Balancing** — Configure cross-zone load balancing, connection draining, and stickiness.
+
+### Third-Party Platforms
+
+- **KodeKloud** — Advanced networking labs covering VPC design, VPN, and hybrid connectivity scenarios.
+- **Cloud Academy** — Structured networking deep-dives with hands-on labs.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

@@ -143,10 +143,36 @@ None worth it for this exam.
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers core DOP services: CodePipeline (free), CodeBuild (100 minutes/month), Lambda (1 million requests), CloudFormation (free), and Systems Manager (free). Build production CI/CD pipelines and automated deployment workflows. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### Advanced DevOps Projects
+
+At the Professional level, build end-to-end pipelines that demonstrate operational excellence:
+
+- **CI/CD pipelines** — Build multi-stage pipelines with CodePipeline, CodeBuild, and CodeDeploy across multiple environments.
+- **Infrastructure as Code** — Write complex CloudFormation templates with nested stacks, StackSets, and custom resources.
+- **Configuration management** — Use Systems Manager to manage configurations, patching, and compliance at scale.
+- **Monitoring & observability** — Set up centralized logging, distributed tracing with X-Ray, and composite alarms.
+- **Security automation** — Automate security responses with Lambda, Config rules, and EventBridge.
+
+### AWS Skill Builder Labs
+
+Skill Builder offers advanced DevOps labs covering CI/CD, infrastructure as code, and monitoring at scale.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### Third-Party Platforms
+
+- **KodeKloud** — DevOps-focused labs covering CI/CD, Terraform, Docker, and Kubernetes on AWS.
+- **Cloud Academy** — Professional-level DevOps learning paths with hands-on labs.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

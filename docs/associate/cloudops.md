@@ -147,11 +147,43 @@ A Cloud Guru / Pluralsight — their courses have fallen behind. If you have fre
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
-- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier covers key SOA services: CloudFormation (free), Systems Manager (free), CloudWatch (10 metrics/dashboards), and Lambda (1 million requests). Build automated operational workflows, monitoring dashboards, and infrastructure-as-code templates. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Builder Labs
+
+Builder Labs provide guided environments for operations-focused services including Systems Manager, CloudWatch, and CloudFormation. Labs use temporary AWS accounts for safe experimentation.
+
+[AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers additional labs for operations and management services including AWS Config, EventBridge, and Auto Scaling.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### Operations Services to Practice
+
+- **AWS CloudFormation** — Write templates to provision and manage infrastructure as code.
+- **AWS Systems Manager** — Automate patching, run commands, and manage EC2 at scale.
+- **Amazon CloudWatch** — Create metrics, alarms, dashboards, and log insights.
+- **Amazon EventBridge** — Build event-driven automation rules across AWS services.
+- **AWS Config** — Track resource compliance and configuration changes.
+- **AWS Auto Scaling** — Configure scaling policies for EC2 and other services.
+
+### Third-Party Platforms
+
+- **KodeKloud** — Operations-focused AWS labs covering CloudFormation, Systems Manager, and monitoring scenarios.
+- **Whizlabs** — Sandbox environment for practicing AWS operations and management services.
+- **Cloud Academy** — Structured SysOps learning paths with hands-on labs.
+- **A Cloud Guru / Pluralsight** — Includes operations sandboxes. Best if you have free access through work.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 

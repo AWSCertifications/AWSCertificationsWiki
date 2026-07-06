@@ -146,11 +146,33 @@ A Cloud Guru / Pluralsight — their courses have fallen behind the competition.
 
 ---
 
-## Hands-on Resources
+## Hands-on Practice
 
-- [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner) — gamified hands-on learning in the AWS Console, free of charge
-- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs with temporary AWS accounts
-- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+### AWS Free Tier
+
+The AWS Free Tier lets you experiment with core AWS services at no cost. Services like EC2 (750 hours/month), S3 (5 GB), and Lambda (1 million requests/month) are ideal for building foundational AWS skills. Set up billing alerts and monitor usage to avoid unexpected charges.
+
+[AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Skill Builder Labs
+
+Skill Builder offers guided labs aligned with Cloud Practitioner objectives. Labs provide temporary AWS accounts so you can practice without affecting your own resources.
+
+[Skill Builder Labs](https://skillbuilder.aws/labs)
+
+### AWS Cloud Quest
+
+Cloud Quest is a gamified 3D role-playing game that teaches AWS concepts through hands-on challenges in the AWS Console. The Cloud Practitioner quest is free and covers foundational topics.
+
+[AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner)
+
+### Third-Party Platforms
+
+- **KodeKloud** — Beginner-friendly AWS scenarios with browser-based labs. Good for building confidence before attempting real AWS accounts.
+- **Whizlabs** — AWS sandbox environment for hands-on practice without worrying about costs.
+- **A Cloud Guru / Pluralsight** — Includes AWS sandboxes for lab exercises. Best used if you have free access through work.
+
+[Projects & Hands-on](../projects-hands-on.md) — more practice resources and comparison of platforms.
 
 ---
 
