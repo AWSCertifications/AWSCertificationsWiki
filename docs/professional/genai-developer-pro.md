@@ -79,7 +79,7 @@ These are revision-focused courses organised by domain. Pair them with a paid vi
 
 | Instructor / Provider | Description | Link |
 |-----------------------|-------------|------|
-| **Frank Kane & Stephane Maarek** | Most popular resource. Covers the full curriculum with hands-on demos | [Udemy Course](https://www.udemy.com/course/aws-certified-generative-ai-developer-professional/) |
+| **Frank Kane & Stephane Maarek** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [Udemy Course](https://www.udemy.com/course/aws-certified-generative-ai-developer-professional/) |
 | **TutorialsDojo (TD)** | Video course from an AWS Authorised Training Partner. Also available via LinkedIn Learning | [tutorialsdojo.com](https://tutorialsdojo.com) |
 | **AWS Skill Builder — AIP Learning Plan** | Official AWS learning plan including labs, practice materials, and digital badges. Pay for at least 1 month | [Skill Builder](https://skillbuilder.aws) |
 
@@ -99,6 +99,18 @@ These are revision-focused courses organised by domain. Pair them with a paid vi
 
 If you subscribe to Skill Builder, consider the [Agentic AI Micro Credential](../microcredentials.md) — a hands-on, non-proctored assessment that covers many AIP curriculum areas and awards a digital badge.
 
+**AWS Skill Builder Microcredentials**
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+**AWS Customer Learning Programs**
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
 ---
 
 ## Practice Exams
@@ -113,13 +125,40 @@ If you subscribe to Skill Builder, consider the [Agentic AI Micro Credential](..
 | Provider | Link | Notes |
 |----------|------|-------|
 | **AWS Official Practice Exam** | [Skill Builder](https://skillbuilder.aws) | Subscription (paid tier) required |
-| **Frank Kane (Udemy)** | [Udemy Course](https://www.udemy.com/course/aws-certified-generative-ai-developer-pro-3-practice-exams/) | Most updated and most popular based on community feedback |
+| **Frank Kane (Udemy)** | [Udemy Course](https://www.udemy.com/course/aws-certified-generative-ai-developer-pro-3-practice-exams/) | Most updated based on community feedback |
 | **Stephane Maarek & Abhishek Singh (Udemy)** | [Udemy Course](https://www.udemy.com/course/aws-certified-generative-ai-developer-professional/) | |
 | **TutorialsDojo** | [tutorialsdojo.com](https://tutorialsdojo.com) | Well-known for quality. Less community feedback available compared to other exams |
 | **ExamPro (Andrew Brown)** | [exampro.co](https://exampro.co) | Minimal community feedback |
 
 !!! danger "Avoid Dumps"
     If someone offers the exact list of AWS questions or guarantees the question bank matches the exam — that is a dump. Using dumps risks a ban. Stick to legitimate sources.
+
+---
+
+## Hands-on Resources
+
+- [Agentic AI Micro Credential](../microcredentials.md) — hands-on assessment covering AIP curriculum areas
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Build RAG applications, agents, and guardrails with Bedrock.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+- The GenAI domain moves fast — stay current with AWS announcements.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
+- Consider exam center over home — the exam is 3 hours long.
 
 ---
 
@@ -167,6 +206,7 @@ Use them cautiously — they can give incorrect answers. Always double-check aga
 ## Related Pages
 
 - [AI Practitioner (AIF)](../foundational/ai-practitioner.md)
+- [ML Engineer Associate (MLA)](../associate/machine-learning.md)
 - [Solutions Architect Professional (SAP)](solutions-architect-pro.md)
 - [DevOps Engineer Professional (DOP)](devops-engineer-pro.md)
 - [Certification Pathways](../certification-pathways.md)
@@ -175,3 +215,4 @@ Use them cautiously — they can give incorrect answers. Always double-check aga
 - [Exam Benefits](../exam-benefits.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
 - [Microcredentials](../microcredentials.md)
+- [Projects & Hands-on](../projects-hands-on.md)

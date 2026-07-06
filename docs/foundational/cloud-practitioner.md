@@ -40,6 +40,19 @@ A comprehensive resource guide for the AWS Certified Cloud Practitioner exam.
 
 ---
 
+## Who Should Take CLF?
+
+Everyone can benefit from learning the Cloud Practitioner material. Whether you should actually take the exam depends on your background:
+
+- **Complete beginners** — Yes. CLF is designed for you. It teaches cloud concepts without assuming technical skills.
+- **Students** — Yes. Low barrier to entry, validates foundational knowledge.
+- **Experienced developers / IT professionals** — Learning the material is useful, but you may skip the exam and go directly to Associate level.
+- **Existing cloud professionals** — You can skip CLF entirely. The material is review; the exam is optional.
+
+Learning the material is valuable regardless of whether you take the certification.
+
+---
+
 ## Exam Details
 
 - **Exam code:** CLF-C02 (also called CCP — Certified Cloud Practitioner)
@@ -49,41 +62,43 @@ A comprehensive resource guide for the AWS Certified Cloud Practitioner exam.
 
 ---
 
-## Minimum Viable Path
+## Recommended Learning Path
 
 Most people need three things to pass:
 
 ### 1. One Video Course
 
-=== "Free Courses"
+### Video Courses
 
-    **AWS Skill Builder — Cloud Practitioner Essentials**
+#### Free
 
-    [Access the course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+**AWS Skill Builder — Cloud Practitioner Essentials**
 
-    !!! note
-        This course alone is **not enough** to pass. Use it alongside additional materials.
+[Access the course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 
-    **Andrew Brown / FreeCodeCamp (YouTube)**
+!!! note
+    This course alone is **not enough** to pass. Use it alongside additional materials.
 
-    The 2024 refresh is the best free video resource available.
+**Andrew Brown / FreeCodeCamp (YouTube)**
 
-    [Watch on YouTube](https://youtu.be/NhDYbskXRgc)
+The 2024 refresh is the best free video resource available.
 
-    Andrew also has additional content on [ExamPro](https://exampro.co).
+[Watch on YouTube](https://youtu.be/NhDYbskXRgc)
 
-=== "Paid Courses"
+Andrew also has additional content on [ExamPro](https://exampro.co).
 
-    !!! warning "Udemy Pricing"
-        Udemy frequently discounts courses. **Never pay more than USD 20.** Open in incognito or follow authors on social media for coupon codes.
+#### Paid
 
-    | Instructor | Link |
-    |------------|------|
-    | **Stephane Maarek** | [courses.datacumulus.com](https://courses.datacumulus.com/) |
-    | **Neil Davis** | [Udemy Course](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/) |
-    | **Andrew Brown (ExamPro)** | [exampro.co](https://exampro.co) |
+!!! warning "Udemy Pricing"
+    Udemy frequently discounts courses. **Never pay more than USD 20.** Open in incognito or follow authors on social media for coupon codes.
 
-    Pick **one** — any of these is sufficient.
+| Instructor | Link |
+|------------|------|
+| **Stephane Maarek** | [courses.datacumulus.com](https://courses.datacumulus.com/) |
+| **Neil Davis** | [Udemy Course](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/) |
+| **Andrew Brown (ExamPro)** | [exampro.co](https://exampro.co) |
+
+Pick **one** — any of these is sufficient.
 
 ### 2. Additional Material
 
@@ -131,29 +146,41 @@ A Cloud Guru / Pluralsight — their courses have fallen behind the competition.
 
 ---
 
-## Supplementary Resources
+## Hands-on Resources
 
-### AWS Cloud Quest: Cloud Practitioner
+- [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner) — gamified hands-on learning in the AWS Console, free of charge
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs with temporary AWS accounts
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
 
-A **gamified** hands-on learning experience with a dozen skills covering Compute, Storage, and more. Each assignment is a hands-on lab in the actual AWS Console — free of charge. Completing all assignments earns a digital badge.
+---
 
-[Start Cloud Quest](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner)
+## Additional Reading
 
-!!! tip
-    This alone is not enough to pass, but it reinforces fundamental services with real hands-on work.
-
-### SkillBuilder ExamPrep Course
-
-A 4.5-hour course covering exam domains and sample questions. It does **not** teach basics — use it after a main video course.
-
-[Access the course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english)
-
-### Community Notes
-
-[CLF-C02 notes by u/cgreciano](https://psychedelic-cuticle-e79.notion.site/AWS-Cloud-Practitioner-CLF-C02-1cb86c7395e78094a7cfff1bcec54c81) — popular in the community. Use as a **complementary** resource, not your only source. Also check [his website](https://www.christiangreciano.com/).
+- [SkillBuilder ExamPrep Course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english) — 4.5-hour course covering exam domains and sample questions
+- [CLF-C02 notes by u/cgreciano](https://psychedelic-cuticle-e7b.notion.site/AWS-Cloud-Practitioner-CLF-C02-1cb86c7395e78094a7cfff1bcec54c81) — popular in the community. Use as a **complementary** resource, not your only source. Also check [his website](https://www.christiangreciano.com/).
+- **AWS Skill Builder Microcredentials** — Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation. [Learn more](https://skillbuilder.aws/certification/microcredentials)
+- **AWS Customer Learning Programs** — Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint. [Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
 
 !!! tip
     Making your own notes or flashcards is always the best approach — the act of writing aids recollection.
+
+---
+
+## Community Advice
+
+- Hands-on practice matters, even at this level.
+- Don't memorize dumps — they risk a ban and teach nothing.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
 
 ---
 
@@ -197,3 +224,4 @@ No — this is a beginner-level exam with no coding involved.
 - [Digital Badges](../digital-badges.md)
 - [Exam Benefits](../exam-benefits.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)

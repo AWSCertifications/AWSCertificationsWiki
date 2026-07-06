@@ -34,8 +34,7 @@ A comprehensive resource guide for the AWS Developer Associate exam.
 ## tl;dr
 
 1. Get **one** video course:
-    - **Bare minimum:** Stephane Maarek on Udemy
-    - **Deep learning:** Adrian Cantrill
+    - **Exam-focused:** Stephane Maarek on Udemy
 2. Read whitepapers and review re:Invent announcements
 3. Do **one** set of quality practice exams — TutorialsDojo or Stephane Maarek
 4. Take and pass the exam!
@@ -72,13 +71,34 @@ Not exam-oriented but helpful for learning the basics. Includes both free and su
 
 | Instructor | Description | Link |
 |------------|-------------|------|
-| **Adrian Cantrill** | Deep practical knowledge beyond the exam | [learn.cantrill.io](https://learn.cantrill.io/) |
-| **Stephane Maarek** | Focused on passing the exam | [courses.datacumulus.com](https://courses.datacumulus.com/) |
+| **Stephane Maarek** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [courses.datacumulus.com](https://courses.datacumulus.com/) |
 | **Neil Davis** | Solid hands-on course | [Udemy Course](https://www.udemy.com/course/aws-certified-developer-associate-exam-training/) |
-| **QA Learning** | Learning plan + practice exam | [QA DVA Course](https://platform.qa.com/learning-paths/aws-developer-associate-dva-c02-certification-preparation-1-9403/) |
+| **QA Learning** | Enterprise training; includes learning plan and practice exam | [QA DVA Course](https://platform.qa.com/learning-paths/aws-developer-associate-dva-c02-certification-preparation-1-9403/) |
 
 !!! warning "Udemy Pricing"
     Never pay more than **USD 20**. Prices fluctuate daily — use the author's coupon site or open in incognito.
+
+### Deep Learning Resources
+
+| Instructor | Description | Link |
+|------------|-------------|------|
+| **Adrian Cantrill** | Excellent for learning AWS architecture and AWS fundamentals. Exceptional hands-on explanations and deep technical content. Some AWS certification courses are becoming outdated compared to more actively maintained providers. Course updates generally lag behind the latest AWS certification blueprints. Better suited for building long-term AWS knowledge than for preparing for the latest certification exams. | [learn.cantrill.io](https://learn.cantrill.io/) |
+
+---
+
+## Additional Resources
+
+**AWS Skill Builder Microcredentials**
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+**AWS Customer Learning Programs**
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
 
 ---
 
@@ -109,10 +129,42 @@ A Cloud Guru / Pluralsight — their courses have fallen behind. Use their sandb
 
 ---
 
+## Books
+
+Books go out of date quickly. Video courses are recommended instead. Sybex, TutorialsDojo, and Neil Davis offer ebooks if you prefer reading.
+
+---
+
+## Hands-on Resources
+
+- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Build serverless apps to reinforce DVA topics.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
+
+---
+
 ## FAQ
 
 **Do I need all this material?**
-No. One from each category is enough. Example: Adrian Cantrill's course + TutorialsDojo.
+No. One from each category is enough. Example: Stephane Maarek's course + TutorialsDojo.
 
 **Do I need hands-on work?**
 Yes — hands-on experience is recommended at the Associate level. Secure your account and set billing alarms.
@@ -138,9 +190,6 @@ The exam won't ask you to write code in Java/Python. It focuses on AWS developer
 **Can I use ChatGPT / Amazon Q to learn?**
 Use them cautiously — they can give incorrect answers. Always double-check against official docs.
 
-**Are there books for this?**
-Books go out of date quickly. Video courses are recommended instead. Sybex, TutorialsDojo, and Neil Davis offer ebooks if you prefer reading.
-
 **Should I buy TutorialsDojo via Udemy or direct?**
 Buy direct from their site for the **review mode** that lets you go question-by-question.
 
@@ -152,9 +201,11 @@ SAA first is recommended — it builds a broader foundation.
 ## Related Pages
 
 - [Solutions Architect Associate (SAA)](solutions-architect.md)
+- [DevOps Engineer Professional (DOP)](../professional/devops-engineer-pro.md)
 - [Certification Pathways](../certification-pathways.md)
 - [Cloud Practitioner (CLF)](../foundational/cloud-practitioner.md)
 - [Vouchers & Discounts](../vouchers-discounts.md)
 - [Free Learning](../free-learning.md)
 - [Exam Benefits](../exam-benefits.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)

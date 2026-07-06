@@ -35,8 +35,7 @@ A comprehensive resource guide for the AWS Solutions Architect Professional exam
 
 1. Get **Associate-level knowledge** first — see the [Solutions Architect Associate guide](../associate/solutions-architect.md)
 2. Get **one** video course:
-    - **Bare minimum to pass:** Stephane Maarek / Neil Davis on Udemy
-    - **Deep learning:** Adrian Cantrill
+    - **Exam-focused:** Stephane Maarek / Neil Davis on Udemy
 3. Read **whitepapers** (especially WAF), review re:Invent announcements
 4. Do **one** set of quality practice exams — TutorialsDojo or Stephane Maarek
 5. Consider exam center vs home, and ESL+30 min extension
@@ -78,14 +77,19 @@ Approximately **70 hours** of free content.
 
 | Instructor | Description | Link |
 |------------|-------------|------|
-| **Adrian Cantrill** | Goes above and beyond the exam — deep practical knowledge. Longer and pricier, but highly recommended | [learn.cantrill.io](https://learn.cantrill.io/) |
-| **Stephane Maarek** | Focused on passing the exam | [courses.datacumulus.com](https://courses.datacumulus.com/) |
+| **Stephane Maarek** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [courses.datacumulus.com](https://courses.datacumulus.com/) |
 | **Neil Davis** | Digital Cloud on Udemy | [Udemy Course](https://www.udemy.com/course/aws-certified-solutions-architect-professional/) |
-| **QA Learning** | Includes a learning plan and practice exam | [QA SAP Course](https://platform.qa.com/learning-paths/aws-certified-solutions-architect-professional-sap-c02-certification-preparation/) |
+| **QA Learning** | Enterprise training; includes a learning plan and practice exam | [QA SAP Course](https://platform.qa.com/learning-paths/aws-certified-solutions-architect-professional-sap-c02-certification-preparation/) |
 | **AWS SkillBuilder Enhanced** | Subscription with labs and official practice exam | [Skill Builder](https://skillbuilder.aws/) |
 
 !!! warning "Udemy Pricing"
     Never pay more than **USD 20** for any Udemy course. Prices fluctuate daily. Use the author's coupon site, open in incognito, or create a new account for the best price.
+
+### Deep Learning Resources
+
+| Instructor | Description | Link |
+|------------|-------------|------|
+| **Adrian Cantrill** | Excellent for learning AWS architecture and AWS fundamentals. Exceptional hands-on explanations and deep technical content. Some AWS certification courses are becoming outdated compared to more actively maintained providers. Course updates generally lag behind the latest AWS certification blueprints. Better suited for building long-term AWS knowledge than for preparing for the latest certification exams. | [learn.cantrill.io](https://learn.cantrill.io/) |
 
 ---
 
@@ -104,6 +108,18 @@ Approximately **70 hours** of free content.
 **Advanced Networking (not essential but useful)**
 
 - Review advanced networking concepts from the [AWS Networking & Content Delivery blog](https://aws.amazon.com/blogs/networking-and-content-delivery/)
+
+**AWS Skill Builder Microcredentials**
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+**AWS Customer Learning Programs**
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
 
 ---
 
@@ -128,10 +144,36 @@ Approximately **70 hours** of free content.
 
 ---
 
+## Hands-on Resources
+
+- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Cross-account and organization patterns are difficult to practice in sandboxes.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
+- Consider exam center over home — you can move around during the 3-hour exam.
+
+---
+
 ## FAQ
 
 **Do I need all this material?**
-No. One from each category is enough. Example: Adrian Cantrill's course + TutorialsDojo.
+No. One from each category is enough. Example: Stephane Maarek's course + TutorialsDojo.
 
 **Do I need hands-on work?**
 Yes — hands-on experience is strongly recommended at the Professional level. Cross-account and organization patterns are difficult to practice in sandboxes.
@@ -189,3 +231,4 @@ Passing SA Pro renews an active SA Associate and Cloud Practitioner certificatio
 - [Free Learning](../free-learning.md)
 - [Exam Benefits](../exam-benefits.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)

@@ -10,7 +10,7 @@
   vertical-align: middle;
   margin-left: 0.3rem;
 }
-.cert-level-foundational { background: #8C9EFF; color: #fff; }
+.cert-level-foundational { background: #5C6BC0; color: #fff; }
 .cert-level-associate   { background: #FFB300; color: #1a1a1a; }
 .cert-level-professional{ background: #E53935; color: #fff; }
 .cert-level-specialty   { background: #7B1FA2; color: #fff; }
@@ -249,4 +249,128 @@
 .md-typeset .progression-text,
 .md-typeset .cert-header {
   max-width: none;
+}
+
+/* =========================================================================
+   Heading hierarchy consistency
+   ========================================================================= */
+
+.md-typeset h2 {
+  margin-top: 1.6rem;
+}
+
+.md-typeset h3 {
+  margin-top: 1.2rem;
+}
+
+/* =========================================================================
+   Card grid spacing improvements
+   ========================================================================= */
+
+.grid.cards {
+  gap: 0.8rem;
+}
+
+.md-typeset .grid.cards > ol,
+.md-typeset .grid.cards > ul {
+  margin: 0;
+}
+
+.md-typeset .grid.cards > ol > li,
+.md-typeset .grid.cards > ul > li {
+  padding: 0.8rem;
+}
+
+/* =========================================================================
+   Badge grid mobile responsiveness
+   ========================================================================= */
+
+@media (max-width: 480px) {
+  .badge-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 0.6rem;
+  }
+  .badge-grid img {
+    max-width: 80px;
+  }
+  .badge-grid a {
+    padding: 0.6rem;
+  }
+}
+
+/* =========================================================================
+   Table spacing consistency across all pages
+   ========================================================================= */
+
+.md-typeset table th,
+.md-typeset table td {
+  padding: 0.4rem 0.6rem;
+  vertical-align: middle;
+}
+
+/* =========================================================================
+   Admonition spacing improvements
+   ========================================================================= */
+
+.md-typeset .admonition {
+  margin: 1.2rem 0;
+}
+
+/* =========================================================================
+   Code block spacing
+   ========================================================================= */
+
+.md-typeset pre {
+  margin: 0.8rem 0;
+}
+
+/* =========================================================================
+   Community Advice and Exam Tips sections
+   ========================================================================= */
+
+.md-typeset .community-advice p,
+.md-typeset .exam-tips p {
+  margin: 0.2rem 0;
+}
+
+/* =========================================================================
+   Accessibility: focus indicators for keyboard navigation
+   ========================================================================= */
+
+.md-typeset a:focus-visible,
+.md-typeset button:focus-visible,
+.md-typeset summary:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+  border-radius: 0.1rem;
+}
+
+/* =========================================================================
+   Accessibility: skip-to-content link (hidden until focused)
+   ========================================================================= */
+
+.md-skip:focus {
+  position: fixed;
+  top: 0.25rem;
+  left: 0.25rem;
+  z-index: 100;
+  padding: 0.5rem 1rem;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  font-size: 0.8rem;
+  border-radius: 0.2rem;
+  text-decoration: none;
+}
+
+/* =========================================================================
+   Accessibility: announcement banner close button
+   ========================================================================= */
+
+.md-banner__button {
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0.25rem;
+  margin-left: 0.5rem;
+  vertical-align: middle;
 }

@@ -48,7 +48,7 @@ Before creating a post, please check whether your question is already answered h
 -   :material-help-circle: __FAQ__
     ---
     Exam results, practice scores, Tutorials Dojo, and more.
-    [:octicons-arrow-right-24: Browse FAQ](#faq)
+    [:octicons-arrow-right-24: Browse FAQ](faq.md)
 
 </div>
 
@@ -136,6 +136,8 @@ Explore certification roadmaps for beginners, developers, architects, DevOps, AI
 ---
 
 ## FAQ
+
+View all FAQ topics on the [FAQ page](faq.md).
 
 <div class="grid cards" markdown>
 

@@ -57,8 +57,8 @@ A comprehensive resource guide for the AWS Machine Learning Engineer Associate e
 
 | Instructor | Description | Link |
 |------------|-------------|------|
-| **Stephane Maarek** | Udemy course covering exam curriculum | [courses.datacumulus.com](https://courses.datacumulus.com/) — never pay more than $15 |
-| **QA Learn (Cloud Academy)** | Enterprise-grade course (marked preview during beta) | [QA MLA Course](https://platform.qa.com/learning-paths/aws-certified-machine-learning-engineer-associate-mla-c01-certification-preparation-14842/) |
+| **Stephane Maarek** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [courses.datacumulus.com](https://courses.datacumulus.com/) — never pay more than $15 |
+| **QA Learn (Cloud Academy)** | Enterprise training; course marked preview during beta | [QA MLA Course](https://platform.qa.com/learning-paths/aws-certified-machine-learning-engineer-associate-mla-c01-certification-preparation-14842/) |
 
 !!! tip "Course note"
     Stephane Maarek's course content may not fully cover all exam topics. Some students report that practice tests ask questions in more detail than the course provides. Supplement with Skill Builder and AWS documentation.
@@ -101,19 +101,46 @@ The [Skill Builder search for MLA](https://skillbuilder.aws/search?page=1&examCe
 
 ---
 
-## Community Notes
+## Hands-on Resources
 
-[These MLA notes](https://psychedelic-cuticle-e7d.notion.site/AWS-Machine-Learning-Engineer-Associate-MLA-C01-19686c7395e780e1bab0eac37d0401a0) from u/cgreciano are popular with the community. Use them as a **supplement**, not your only source. Making your own notes and flashcards is always recommended.
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+- [Microcredentials](../microcredentials.md) — hands-on skill validation
 
 ---
 
-## New Question Types
+## Additional Reading
+
+- [Community Notes](https://psychedelic-cuticle-e7d.notion.site/AWS-Machine-Learning-Engineer-Associate-MLA-C01-19686c7395e780e1bab0eac37d0401a0) from u/cgreciano — popular with the community. Use them as a **supplement**, not your only source.
+- [AWS Well-Architected — Machine Learning Lens](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/)
+- **AWS Skill Builder Microcredentials** — Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation. [Learn more](https://skillbuilder.aws/certification/microcredentials)
+- **AWS Customer Learning Programs** — Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint. [Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
+### New Question Types
 
 This exam includes [new question types](https://www.reddit.com/r/AWSCertifications/comments/1ea16sa/new_question_types_for_new_exams/) beyond standard multiple choice. Be prepared for:
 
 - Multiple response (select 2+ correct answers)
 - Drag-and-drop ordering
 - Scenario-based matching
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Build ML pipelines with SageMaker.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
 
 ---
 
@@ -169,10 +196,11 @@ Recommended study plan:
 
 ## Related Pages
 
+- [AI Practitioner (AIF-C01)](../foundational/ai-practitioner.md)
+- [GenAI Developer Professional (AIP-C01)](../professional/genai-developer-pro.md)
 - [Vouchers & Discounts](../vouchers-discounts.md)
 - [Certification Pathways](../certification-pathways.md)
 - [Cloud Practitioner (CLF-C02)](../foundational/cloud-practitioner.md)
-- [AI Practitioner (AIF-C01)](../foundational/ai-practitioner.md)
 - [Solutions Architect (SAA-C03)](solutions-architect.md)
 - [Developer Associate (DVA-C02)](developer.md)
 - [Data Engineer Associate (DEA-C01)](data-engineer.md)
@@ -180,3 +208,5 @@ Recommended study plan:
 - [Digital Badges](../digital-badges.md)
 - [Exam Benefits](../exam-benefits.md)
 - [TutorialsDojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)
+- [Microcredentials](../microcredentials.md)

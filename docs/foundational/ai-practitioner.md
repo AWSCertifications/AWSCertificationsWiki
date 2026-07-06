@@ -31,15 +31,16 @@ A comprehensive resource guide for the AWS Certified AI Practitioner exam.
 !!! tip "Last Updated"
     This guide was last updated on **15 April 2026**.
 
-## Recommended Pathway
+## Who Should Take AIF?
 
-1. Read the [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
-2. Do **one** video course
-3. Do **one** set of quality practice exams (not dumps)
-4. Optional — Complete [Cloud Quest: Generative AI](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V) for a free badge
-5. Optional — Play the [Card Clash: Generative AI Game](https://skillbuilder.aws/learn/7V665TRGMY/aws-card-clash--an-architecture-design-game/7RJQ9341Z8)
-6. Check for [vouchers and discounts](../vouchers-discounts.md)
-7. Take and pass the exam!
+Everyone can benefit from learning the AI Practitioner material. Whether you should actually take the exam depends on your background:
+
+- **Complete beginners** — Yes. AIF is designed for you. It covers AI/ML concepts without assuming deep technical skills.
+- **Students** — Yes. Foundational level with no strict prerequisites.
+- **Experienced ML practitioners** — You may already know this material. Consider going directly to [ML Engineer Associate](../associate/machine-learning.md).
+- **Existing cloud professionals** — Learning the material builds AI literacy; taking the exam is optional.
+
+Learning the material is valuable regardless of whether you take the certification.
 
 ---
 
@@ -53,6 +54,18 @@ A comprehensive resource guide for the AWS Certified AI Practitioner exam.
 
 !!! warning "Question Types"
     This exam includes new question formats beyond standard multiple choice. See the exam guide for details.
+
+---
+
+## Recommended Learning Path
+
+1. Read the [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf)
+2. Do **one** video course
+3. Do **one** set of quality practice exams (not dumps)
+4. Optional — Complete [Cloud Quest: Generative AI](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V) for a free badge
+5. Optional — Play the [Card Clash: Generative AI Game](https://skillbuilder.aws/learn/7V665TRGMY/aws-card-clash--an-architecture-design-game/7RJQ9341Z8)
+6. Check for [vouchers and discounts](../vouchers-discounts.md)
+7. Take and pass the exam!
 
 ---
 
@@ -92,6 +105,9 @@ Covers all domain-specific learning. The new interface shows both free and paid 
 
 ## Practice Exams
 
+!!! danger "Avoid Dumps"
+    If someone offers the exact list of AWS questions or guarantees the question bank matches the real exam — that is a dump. Using dumps risks a ban. Stick to legitimate sources.
+
 ### Free
 
 - [AWS Official 20-question set](https://skillbuilder.aws/learn/4URFGY63KV/official-practice-question-set-aws-certified-ai-practitioner--aifc01--english/FVG43Y1PAX)
@@ -105,27 +121,45 @@ Covers all domain-specific learning. The new interface shows both free and paid 
 | **TutorialsDojo** | [portal.tutorialsdojo.com](https://portal.tutorialsdojo.com/courses/aws-certified-ai-practitioner-practice-exams-aif-c01-2024/) |
 | **Stephane Maarek (Udemy)** | [courses.datacumulus.com](https://courses.datacumulus.com/) |
 
-!!! danger "Avoid Dumps"
-    If someone offers the exact list of AWS questions or guarantees the question bank matches the real exam — that is a dump. Using dumps risks a ban. Stick to legitimate sources.
+---
+
+## Hands-on Resources
+
+- [Cloud Quest: Generative AI](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V) — earn a free badge
+- [Card Clash: Architecture Design Game](https://skillbuilder.aws/learn/7V665TRGMY/aws-card-clash--an-architecture-design-game/7RJQ9341Z8)
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
 
 ---
 
-## Supplementary Learning
-
-### Free Gamified Learning
-
-| Resource | Link | Badge |
-|----------|------|-------|
-| **Cloud Quest: Generative AI** | [Skill Builder](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V) | Yes |
-| **Card Clash: Architecture Design Game** | [Skill Builder](https://skillbuilder.aws/learn/7V665TRGMY/aws-card-clash--an-architecture-design-game/7RJQ9341Z8) | No |
-
-### Free Courses on Skill Builder
+## Additional Reading
 
 - [Generative AI Learning Plan for Developers](https://skillbuilder.aws/learning-plan/5C9XQBTXBB/generative-ai-learning-plan-for-developers-includes-labs/EGATKJP13J)
 - [Amazon Bedrock — Getting Started](https://skillbuilder.aws/learn/63KTRM86DQ/amazon-bedrock-getting-started/SC2Y3HMAUE)
 - [Building Generative AI Applications using Amazon Bedrock](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17904/building-generative-ai-applications-using-amazon-bedrock-aws-digital-training)
 - [AI Language Service Learning Plan](https://skillbuilder.aws/learning-plan/TKSBCYM1TR/ai-language-service-learning-plan/X4RNM6NX73)
 - [Foundations of Prompt Engineering](https://skillbuilder.aws/learn/VF6H4SZ1BU/foundations-of-prompt-engineering/7U8XFUVXDT)
+- [AWS Well-Architected — Generative AI on AWS](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-on-aws/)
+- [Microcredentials](../microcredentials.md) — hands-on skill validation
+- **AWS Skill Builder Microcredentials** — Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation. [Learn more](https://skillbuilder.aws/certification/microcredentials)
+- **AWS Customer Learning Programs** — Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint. [Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
+---
+
+## Community Advice
+
+- Hands-on practice with Amazon Bedrock and SageMaker helps reinforce concepts.
+- Don't memorize dumps — they risk a ban and teach nothing.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar AI/ML services.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
 
 ---
 
@@ -157,8 +191,11 @@ Not required. You can start directly with AI Practitioner.
 ## Related Pages
 
 - [Cloud Practitioner (CLF)](cloud-practitioner.md)
+- [ML Engineer Associate (MLA)](../associate/machine-learning.md)
+- [GenAI Developer Professional (AIP)](../professional/genai-developer-pro.md)
 - [Certification Pathways](../certification-pathways.md)
 - [Vouchers & Discounts](../vouchers-discounts.md)
 - [Free Learning](../free-learning.md)
 - [Digital Badges](../digital-badges.md)
 - [Exam Benefits](../exam-benefits.md)
+- [Microcredentials](../microcredentials.md)

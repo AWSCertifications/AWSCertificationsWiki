@@ -36,10 +36,9 @@ A comprehensive resource guide for the AWS CloudOps Engineer Associate exam.
 
 ## tl;dr
 
-1. Get **one** video course — pick your style:
+1. Get **one** video course:
     - **Free:** Andrew Brown's YouTube course on FreeCodeCamp
-    - **Bare minimum to pass:** Stephane Maarek on Udemy
-    - **Deep learning:** Adrian Cantrill
+    - **Exam-focused:** Stephane Maarek on Udemy
 2. Get hands-on with CLI and scripting — SysOps needs command line skills
 3. Do **one** set of quality practice exams — TutorialsDojo or Stephane Maarek
 4. Take and pass the exam!
@@ -79,13 +78,18 @@ Andrew also has additional content on [ExamPro](https://exampro.co).
 
 | Instructor | Description | Link |
 |------------|-------------|------|
-| **Adrian Cantrill** | Goes above and beyond the exam — deep practical knowledge | [learn.cantrill.io](https://learn.cantrill.io/) |
-| **Stephane Maarek** | Focused on passing the exam | [courses.datacumulus.com](https://courses.datacumulus.com/) |
+| **Stephane Maarek** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [courses.datacumulus.com](https://courses.datacumulus.com/) |
 | **Neil Davis** | Solid hands-on course on Udemy | [Digital Cloud Training](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-hands-on/) |
-| **QA Learning** | Includes a learning plan and practice exam | [QA SOA Course](https://platform.qa.com/learning-paths/sysops-administrator-associate-soa-c02-certification-preparation-for-aws-1-7445/) |
+| **QA Learning** | Enterprise training; includes a learning plan and practice exam | [QA SOA Course](https://platform.qa.com/learning-paths/sysops-administrator-associate-soa-c02-certification-preparation-for-aws-1-7445/) |
 
 !!! warning "Udemy Pricing"
     Never pay more than **USD 20** for any Udemy course. Prices fluctuate daily. Use the author's coupon site, open in incognito, or create a new account for the best price.
+
+### Deep Learning Resources
+
+| Instructor | Description | Link |
+|------------|-------------|------|
+| **Adrian Cantrill** | Excellent for learning AWS architecture and AWS fundamentals. Exceptional hands-on explanations and deep technical content. Some AWS certification courses are becoming outdated compared to more actively maintained providers. Course updates generally lag behind the latest AWS certification blueprints. Better suited for building long-term AWS knowledge than for preparing for the latest certification exams. | [learn.cantrill.io](https://learn.cantrill.io/) |
 
 ---
 
@@ -100,6 +104,18 @@ Andrew also has additional content on [ExamPro](https://exampro.co).
 
 - [TutorialsDojo Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
 - [Neil Davis — Digital Cloud Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-sysops-administrator-associate/)
+
+**AWS Skill Builder Microcredentials**
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+**AWS Customer Learning Programs**
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
 
 ---
 
@@ -131,10 +147,36 @@ A Cloud Guru / Pluralsight — their courses have fallen behind. If you have fre
 
 ---
 
+## Hands-on Resources
+
+- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Use CLI and scripting for operations tasks.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
+
+---
+
 ## FAQ
 
 **Do I need all this material?**
-No. One from each category is enough. Example: Adrian Cantrill's course + TutorialsDojo.
+No. One from each category is enough. Example: Stephane Maarek's course + TutorialsDojo.
 
 **Do I need hands-on work?**
 Yes — hands-on experience is strongly recommended at the Associate level. Use a sandbox or your own account (with billing alarms enabled).
@@ -188,7 +230,9 @@ Yes, if unexpired.
 - [Cloud Practitioner (CLF)](../foundational/cloud-practitioner.md)
 - [Developer Associate (DVA)](developer.md)
 - [Solutions Architect Associate (SAA)](solutions-architect.md)
+- [DevOps Engineer Professional (DOP)](../professional/devops-engineer-pro.md)
 - [Certification Pathways](../certification-pathways.md)
 - [Vouchers & Discounts](../vouchers-discounts.md)
 - [Free Learning](../free-learning.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)

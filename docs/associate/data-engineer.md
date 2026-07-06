@@ -35,7 +35,7 @@ A comprehensive resource guide for the AWS Data Engineer Associate exam.
 
 1. Read the [official exam guide](https://docs.aws.amazon.com/aws-certification/latest/examguides/data-engineer-associate-01.html) to understand the domains
 2. Get **one** video course:
-    - **Bare minimum:** Stephane Maarek / Frank Kane on Udemy
+    - **Exam-focused:** Stephane Maarek / Frank Kane on Udemy
     - **Free basics:** AWS Skill Builder fundamentals courses
 3. Take the Skill Builder exam prep course
 4. Do **one** set of quality practice exams — TutorialsDojo or Stephane Maarek
@@ -105,13 +105,29 @@ A great free introduction to AWS. Watch his videos to build general AWS familiar
 
 | Instructor | Description | Link |
 |------------|-------------|------|
-| **Stephane Maarek / Frank Kane** | Comprehensive Udemy course covering all domains | [courses.datacumulus.com](https://courses.datacumulus.com/) — never pay more than $15 |
-| **QA Learn (Cloud Academy)** | Good foundational material with labs. Free if you have enterprise access | [QA Learn DEA course](https://platform.qa.com/learning-paths/aws-certified-data-engineer-associate-dea-c01-certification-preparation-for-aws-1-12529/) |
+| **Stephane Maarek / Frank Kane** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [courses.datacumulus.com](https://courses.datacumulus.com/) — never pay more than $15 |
+| **QA Learn (Cloud Academy)** | Enterprise training; good foundational material with labs. Free if you have enterprise access | [QA Learn DEA course](https://platform.qa.com/learning-paths/aws-certified-data-engineer-associate-dea-c01-certification-preparation-for-aws-1-12529/) |
 
 !!! tip "Which course to choose?"
     - **Stephane Maarek / Frank Kane** is the most popular and exam-focused option on Udemy
     - **QA Learn** is excellent if you have free access — enterprise-grade content with regular updates and hands-on labs
     - **Adrian Cantrill** has not confirmed if he will cover DEA
+
+---
+
+## Additional Resources
+
+**AWS Skill Builder Microcredentials**
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+**AWS Customer Learning Programs**
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
 
 ---
 
@@ -131,28 +147,23 @@ AWS Skill Builder offers two exam prep courses that cover exam domains at a high
 
 ## Practice Exams
 
-### Official AWS
+### Free
 
 | Type | Link |
 |------|------|
-| **Free (20 questions)** | [Official Practice Question Set](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16985/aws-certified-data-engineer-associate-official-practice-question-set-dea-c01-english) |
-| **Paid (Official Pretest)** | [Official Pretest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/18609/exam-prep-official-pretest-aws-certified-data-engineer-associate-dea-c01-english) |
+| **AWS Official (20 questions)** | [Official Practice Question Set](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16985/aws-certified-data-engineer-associate-official-practice-question-set-dea-c01-english) |
+| **TutorialsDojo Sampler (20 questions)** | [TutorialsDojo Sampler](https://portal.tutorialsdojo.com/courses/free-aws-certified-data-engineer-associate-practice-exam-sampler/) |
 
-### Udemy
+### Paid
 
-| Instructor | Description | Link |
-|------------|-------------|------|
+| Provider | Link | Notes |
+|----------|------|-------|
+| **AWS Official Pretest** | [Official Pretest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/18609/exam-prep-official-pretest-aws-certified-data-engineer-associate-dea-c01-english) | |
+| **TutorialsDojo Full** | [TutorialsDojo DEA-C01](https://portal.tutorialsdojo.com/courses/aws-certified-data-engineer-associate-practice-exam-dea-c01/) | |
 | **Neal Davis / Digital Cloud Training** | 150 practice questions | [Udemy](https://www.udemy.com/course/aws-certified-data-engineer-associate-practice-exams-dea) |
 | **Stephane Maarek** | 4 full practice exams (65 questions each) | [courses.datacumulus.com](https://courses.datacumulus.com/) — open in incognito for best price |
 | **Thomas Hass** | Community contributed | [Udemy](https://www.udemy.com/course/practice-exams-aws-certified-data-engineer-associate/) |
 | **Paweł Krakowiak** | Community contributed | [Udemy](https://www.udemy.com/course/aws-certified-data-engineer-associate-dea-c01-exams/) |
-
-### TutorialsDojo
-
-| Type | Link |
-|------|------|
-| **Free Sampler (20 questions)** | [TutorialsDojo Sampler](https://portal.tutorialsdojo.com/courses/free-aws-certified-data-engineer-associate-practice-exam-sampler/) |
-| **Full Practice Exam** | [TutorialsDojo DEA-C01](https://portal.tutorialsdojo.com/courses/aws-certified-data-engineer-associate-practice-exam-dea-c01/) |
 
 !!! tip "How to score on practice exams"
     Aim for **high 70s to 80s** on practice exams before booking the real exam. Review every wrong answer thoroughly. There is no single "magic number" — focus on understanding *why* answers are correct.
@@ -174,6 +185,33 @@ Based on the exam guide and community feedback, focus on these services:
 
 !!! tip "Glue is critical"
     AWS Glue and its ecosystem (crawlers, ETL jobs, DataBrew, Studio, Data Catalog, Lake Formation integration) are heavily tested. Make sure you understand Glue deeply.
+
+---
+
+## Hands-on Resources
+
+- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Build data pipelines with real datasets.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+- AWS Glue and its ecosystem are heavily tested — prioritize them.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
 
 ---
 
@@ -234,11 +272,12 @@ Skill Builder courses + one video course + one set of practice exams should be s
 
 ## Related Pages
 
+- [Solutions Architect Associate (SAA)](solutions-architect.md)
 - [Vouchers & Discounts](../vouchers-discounts.md)
 - [Certification Pathways](../certification-pathways.md)
 - [Cloud Practitioner (CLF-C02)](../foundational/cloud-practitioner.md)
-- [Solutions Architect (SAA-C03)](solutions-architect.md)
 - [Free Learning Resources](../free-learning.md)
 - [Digital Badges](../digital-badges.md)
 - [Exam Benefits](../exam-benefits.md)
 - [TutorialsDojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)

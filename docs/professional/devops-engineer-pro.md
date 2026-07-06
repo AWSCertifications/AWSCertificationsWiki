@@ -35,8 +35,7 @@ A comprehensive resource guide for the AWS DevOps Engineer Professional exam.
 
 1. **Associate level first** — you need Developer Associate + SysOps Associate knowledge
 2. Get **one** video course:
-    - **Bare minimum to pass:** Stephane Maarek
-    - **Deep learning:** Adrian Cantrill
+    - **Exam-focused:** Stephane Maarek
 3. Read **whitepapers** and review **re:Invent** announcements
 4. Do **one** set of quality practice exams — TutorialsDojo or Udemy
 5. Consider **exam center** and **ESL+30 min** accommodation if eligible
@@ -68,13 +67,18 @@ Covers high-level domains but is **not** a comprehensive deep dive.
 
 | Instructor | Description | Link |
 |------------|-------------|------|
-| **Adrian Cantrill** | Goes above and beyond the exam — deep practical knowledge | [learn.cantrill.io](https://learn.cantrill.io/) |
-| **Stephane Maarek** | Focused on passing the exam | [courses.datacumulus.com](https://courses.datacumulus.com/) |
-| **QA Learning** | Includes learning plan and practice exam | [QA Platform](https://platform.qa.com/learning-paths/aws-devops-engineer-professional-dop-c02-certification-preparation-for-aws-4694/) |
+| **Stephane Maarek** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [courses.datacumulus.com](https://courses.datacumulus.com/) |
+| **QA Learning** | Enterprise training; includes learning plan and practice exam | [QA Platform](https://platform.qa.com/learning-paths/aws-devops-engineer-professional-dop-c02-certification-preparation-for-aws-4694/) |
 | **ExamPro** | Partially complete — not yet recommended | [exampro.co](https://exampro.co) |
 
 !!! warning "Udemy Pricing"
     Never pay more than **USD 20** for any Udemy course. Prices fluctuate daily. Use the author's coupon site, open in incognito, or create a new account for the best price.
+
+### Deep Learning Resources
+
+| Instructor | Description | Link |
+|------------|-------------|------|
+| **Adrian Cantrill** | Excellent for learning AWS architecture and AWS fundamentals. Exceptional hands-on explanations and deep technical content. Some AWS certification courses are becoming outdated compared to more actively maintained providers. Course updates generally lag behind the latest AWS certification blueprints. Better suited for building long-term AWS knowledge than for preparing for the latest certification exams. | [learn.cantrill.io](https://learn.cantrill.io/) |
 
 ---
 
@@ -104,6 +108,18 @@ Covers high-level domains but is **not** a comprehensive deep dive.
 - Focus on the **Operational Excellence** and **Reliability** pillars
 - [WAF Whitepapers](https://aws.amazon.com/whitepapers/)
 
+**AWS Skill Builder Microcredentials**
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+**AWS Customer Learning Programs**
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
 ---
 
 ## Practice Exams
@@ -127,10 +143,36 @@ None worth it for this exam.
 
 ---
 
+## Hands-on Resources
+
+- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Build CI/CD pipelines and infrastructure as code.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
+- Consider exam center over home — the exam is 3 hours long.
+
+---
+
 ## FAQ
 
 **Do I need all this material?**
-No. One from each category is enough. Example: Adrian Cantrill's course + TutorialsDojo.
+No. One from each category is enough. Example: Stephane Maarek's course + TutorialsDojo.
 
 **Do I need hands-on work?**
 Yes — hands-on experience is **required** at the Professional level. Use a sandbox or your own account (with billing alarms enabled).
@@ -188,3 +230,4 @@ DevOps Engineer Professional renews your active Developer Associate, SysOps Admi
 - [Vouchers & Discounts](../vouchers-discounts.md)
 - [Free Learning](../free-learning.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)

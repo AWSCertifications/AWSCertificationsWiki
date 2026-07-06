@@ -33,10 +33,9 @@ A comprehensive resource guide for the AWS Solutions Architect Associate exam.
 
 ## tl;dr
 
-1. Get **one** video course — pick your style:
+1. Get **one** video course:
     - **Free:** Andrew Brown's YouTube course
-    - **Bare minimum to pass:** Stephane Maarek on Udemy
-    - **Deep learning:** Adrian Cantrill
+    - **Exam-focused:** Stephane Maarek on Udemy
 2. Read **whitepapers** (especially WAF) and review re:Invent announcements
 3. Do **one** set of quality practice exams — TutorialsDojo or Stephane Maarek
 4. Take and pass the exam!
@@ -76,13 +75,18 @@ Andrew also has additional content on [ExamPro](https://exampro.co).
 
 | Instructor | Description | Link |
 |------------|-------------|------|
-| **Adrian Cantrill** | Goes above and beyond the exam — deep practical knowledge. Longer and pricier, but highly recommended | [learn.cantrill.io](https://learn.cantrill.io/) |
-| **Stephane Maarek** | Focused on passing the exam | [courses.datacumulus.com](https://courses.datacumulus.com/) |
+| **Stephane Maarek** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [courses.datacumulus.com](https://courses.datacumulus.com/) |
 | **Neil Davis** | Solid hands-on course | [Udemy Course](https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/) |
-| **QA Learning** | Includes a learning plan and practice exam | [QA SAA Course](https://platform.qa.com/learning-paths/aws-solutions-architect-associate-saa-c03-certification-preparation-for-aws-1-7446/) |
+| **QA Learning** | Enterprise training; includes a learning plan and practice exam | [QA SAA Course](https://platform.qa.com/learning-paths/aws-solutions-architect-associate-saa-c03-certification-preparation-for-aws-1-7446/) |
 
 !!! warning "Udemy Pricing"
     Never pay more than **USD 20** for any Udemy course. Prices fluctuate daily. Use the author's coupon site, open in incognito, or create a new account for the best price.
+
+### Deep Learning Resources
+
+| Instructor | Description | Link |
+|------------|-------------|------|
+| **Adrian Cantrill** | Excellent for learning AWS architecture and AWS fundamentals. Exceptional hands-on explanations and deep technical content. Some AWS certification courses are becoming outdated compared to more actively maintained providers. Course updates generally lag behind the latest AWS certification blueprints. Better suited for building long-term AWS knowledge than for preparing for the latest certification exams. | [learn.cantrill.io](https://learn.cantrill.io/) |
 
 ---
 
@@ -97,6 +101,18 @@ Andrew also has additional content on [ExamPro](https://exampro.co).
 
 - [TutorialsDojo Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
 - [Neil Davis — Digital Cloud Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/)
+
+**AWS Skill Builder Microcredentials**
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+**AWS Customer Learning Programs**
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
 
 ---
 
@@ -128,10 +144,44 @@ A Cloud Guru / Pluralsight — their courses have fallen behind. If you have fre
 
 ---
 
+## Books
+
+Books go out of date quickly. The Sybex guide, TutorialsDojo ebook, and Neil Davis ebook exist but video courses are recommended instead.
+
+---
+
+## Hands-on Resources
+
+- Use the [AWS Free Tier](https://aws.amazon.com/free/) for hands-on practice
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
+- [Cloud Resume Challenge](https://cloudresumechallenge.dev/) — build a serverless resume website
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Don't just watch videos — build things.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+- Focus on understanding the Well-Architected Framework pillars.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
+
+---
+
 ## FAQ
 
 **Do I need all this material?**
-No. One from each category is enough. Example: Adrian Cantrill's course + TutorialsDojo.
+No. One from each category is enough. Example: Stephane Maarek's course + TutorialsDojo.
 
 **Do I need hands-on work?**
 Yes — hands-on experience is strongly recommended at the Associate level. Use a sandbox or your own account (with billing alarms enabled).
@@ -157,9 +207,6 @@ No coding is required, but basic scripting and AWS CLI knowledge are very helpfu
 **Can I use ChatGPT / Amazon Q to learn?**
 Use them cautiously — they can give incorrect answers. Always double-check against official docs.
 
-**Are there books for this exam?**
-Books go out of date quickly. The Sybex guide, TutorialsDojo ebook, and Neil Davis ebook exist but video courses are recommended instead.
-
 **Should I buy TutorialsDojo via Udemy or direct?**
 Buy direct from their site — the **review mode** lets you go question-by-question rather than taking full exams.
 
@@ -178,8 +225,11 @@ No. Everyone gets a different exam from a large question pool. Study everything 
 
 - [Cloud Practitioner (CLF)](../foundational/cloud-practitioner.md)
 - [Developer Associate (DVA)](developer.md)
+- [Solutions Architect Professional (SAP)](../professional/solutions-architect-pro.md)
 - [Certification Pathways](../certification-pathways.md)
 - [Vouchers & Discounts](../vouchers-discounts.md)
 - [Free Learning](../free-learning.md)
 - [Exam Benefits](../exam-benefits.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)
+- [Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)

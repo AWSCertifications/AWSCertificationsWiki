@@ -33,9 +33,8 @@ A comprehensive resource guide for the AWS Security Specialty exam.
 
 ## tl;dr
 
-1. Get **one** video course — pick your style:
+1. Get **one** video course:
     - **Exam focus:** Stephane Maarek
-    - **Deep learning:** Adrian Cantrill
 2. Read **whitepapers** and review re:Invent announcements (security changes fast)
 3. Do **one** set of quality practice exams — TutorialsDojo, Stephane Maarek, or Neil Davis
 
@@ -63,15 +62,20 @@ Free exam prep course covering the high-level domains.
 
 | Instructor | Description | Link |
 |------------|-------------|------|
-| **Adrian Cantrill** | Goes above and beyond the exam — deep practical knowledge | [learn.cantrill.io](https://learn.cantrill.io/) |
-| **Stephane Maarek** | Focused on passing the exam | [courses.datacumulus.com](https://courses.datacumulus.com/) |
+| **Stephane Maarek** | Frequently updated, exam-focused, recommended for most certification candidates. Best suited for preparing for the latest AWS certification exams. | [courses.datacumulus.com](https://courses.datacumulus.com/) |
 | **Neil Davis** | Solid hands-on course on Udemy | [Udemy](https://www.udemy.com/course/aws-certified-security-specialty/) |
-| **QA Learning (Cloud Academy)** | Includes learning plan and practice exam | [QA Platform](https://platform.qa.com/) |
+| **QA Learning (Cloud Academy)** | Enterprise training; includes learning plan and practice exam | [QA Platform](https://platform.qa.com/) |
 | **SkillBuilder Enhanced** | Subscription — same course content as free plus labs | [Skill Builder](https://skillbuilder.aws/) |
 | **ExamPro** | Partially complete — not yet recommended | [exampro.co](https://exampro.co) |
 
 !!! warning "Udemy Pricing"
     Never pay more than **USD 20** for any Udemy course. Prices fluctuate daily. Use the author's coupon site, open in incognito, or create a new account for the best price.
+
+### Deep Learning Resources
+
+| Instructor | Description | Link |
+|------------|-------------|------|
+| **Adrian Cantrill** | Excellent for learning AWS architecture and AWS fundamentals. Exceptional hands-on explanations and deep technical content. Some AWS certification courses are becoming outdated compared to more actively maintained providers. Course updates generally lag behind the latest AWS certification blueprints. Better suited for building long-term AWS knowledge than for preparing for the latest certification exams. | [learn.cantrill.io](https://learn.cantrill.io/) |
 
 ---
 
@@ -82,6 +86,18 @@ Free exam prep course covering the high-level domains.
 - [AWS Ramp-Up Guide: Security](https://d1.awsstatic.com/training-and-certification/ramp-up-guides/Ramp-Up_Guide_Security.pdf)
 - [IAM Deep Dive from re:Inforce 2022](https://www.youtube.com/watch?v=y7sBfR_iXfU)
 - [IAM Policy Ninja](https://www.youtube.com/watch?v=5e1gHjV9Vok) on YouTube
+
+**AWS Skill Builder Microcredentials**
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+**AWS Customer Learning Programs**
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
 
 ---
 
@@ -104,6 +120,31 @@ None worth it.
 
 !!! danger "Avoid Dumps"
     If someone offers the exact list of AWS questions or guarantees the question bank matches the exam — that is a dump. Using dumps risks a ban. Stick to legitimate sources.
+
+---
+
+## Hands-on Resources
+
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/) — free guided labs
+- [Projects & Hands-on](../projects-hands-on.md) — more practice resources
+
+---
+
+## Community Advice
+
+- Hands-on practice matters. Set up security scenarios in your own account.
+- Don't memorize dumps.
+- Practice exams identify weak areas; review every wrong answer.
+- Read AWS documentation for unfamiliar services.
+
+---
+
+## Exam Tips
+
+- Sleep well before the exam.
+- Read every question carefully.
+- Eliminate wrong answers first.
+- Flag difficult questions and come back to them.
 
 ---
 
@@ -152,3 +193,4 @@ No. Everyone gets a different exam from a large question pool. Study everything 
 - [Vouchers & Discounts](../vouchers-discounts.md)
 - [Free Learning](../free-learning.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
+- [Projects & Hands-on](../projects-hands-on.md)

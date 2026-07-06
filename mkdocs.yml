@@ -13,6 +13,7 @@ copyright: >
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -49,6 +50,8 @@ extra:
   consent:
     title: Cookie consent
     description: We use cookies to recognize your repeated visits and preferences
+  image: assets/images/social-preview.svg
+  announcement: AWS Certifications Wiki v1.0 is now available. Explore certification pathways, FAQs, study resources, and community-maintained guides.
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -82,17 +85,18 @@ nav:
       - Programs for Women, Military & Students: programs-similar-skills-to-jobs.md
 
   - FAQ:
+      - FAQ: faq.md
       - Exam Results: exam-results.md
-      - Free Learning: free-learning.md
-      - Digital Badges: digital-badges.md
-      - ETC Rewards: etc-rewards.md
-      - Tutorials Dojo: tutorialsdojo.md
-      - Exam Benefits: exam-benefits.md
       - Practice Exam Scores: practice-exam-scores.md
-      - Projects & Hands-on: projects-hands-on.md
+      - Tutorials Dojo: tutorialsdojo.md
+      - Digital Badges: digital-badges.md
       - Microcredentials: microcredentials.md
-      - Contributor Guide: contributor-guide.md
+      - ETC Rewards: etc-rewards.md
+      - Exam Benefits: exam-benefits.md
+      - Projects & Hands-on: projects-hands-on.md
+      - Free Learning: free-learning.md
       - Community Rules: subreddit-rules.md
+      - Contributor Guide: contributor-guide.md
 
   - Foundational:
       - Cloud Practitioner: foundational/cloud-practitioner.md

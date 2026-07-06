@@ -19,6 +19,8 @@ This wiki is **community-maintained** by the [r/AWSCertifications](https://reddi
 ```
 docs/
 ├── index.md                  # Homepage
+├── 404.md                    # Custom 404 page
+├── faq.md                    # FAQ landing page
 ├── contributor-guide.md      # This page
 ├── certification-pathways.md # Expanded certification roadmaps (20+ pathways)
 ├── aws-cloud-institute.md    # AWS Cloud Institute program guide
