@@ -161,9 +161,9 @@ View all FAQ topics on the [FAQ page](faq.md).
     What happened to the Emerging Talent Community program?
     [:octicons-arrow-right-24: View](etc-rewards.md)
 
--   :material-microscope: __Microcredentials__
+-   :material-microscope: __AWS Learning Programs & Badges__
     ---
-    AWS's hands-on microcredentials — free and practical.
+    Official AWS learning programs, microcredentials, and badges.
     [:octicons-arrow-right-24: View](microcredentials.md)
 
 -   :material-scale-balance: __Community Rules__

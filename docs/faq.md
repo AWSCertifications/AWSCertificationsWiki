@@ -26,9 +26,9 @@ Welcome to the r/AWSCertifications FAQ. Browse the topics below to find answers 
     Earn AWS Knowledge Badges — free, fast, and shareable.
     [:octicons-arrow-right-24: View](digital-badges.md)
 
--   :material-microscope: __Microcredentials__
+-   :material-microscope: __AWS Learning Programs & Badges__
     ---
-    AWS's hands-on microcredentials — free and practical.
+    Official AWS learning programs, microcredentials, and badges.
     [:octicons-arrow-right-24: View](microcredentials.md)
 
 -   :material-gift: __ETC Rewards__

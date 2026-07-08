@@ -32,4 +32,4 @@ Cloud Essentials, Architecting, Machine Learning, Security, Networking, Database
 ## See Also
 
 - [Free Learning](free-learning.md) — more free AWS resources
-- [Microcredentials](microcredentials.md) — AWS's microcredential offerings
+- [AWS Learning Programs & Badges](microcredentials.md) — Official AWS learning programs, microcredentials, and badges

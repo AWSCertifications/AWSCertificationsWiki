@@ -140,8 +140,23 @@ The AWS Machine Learning microcredential includes a hands-on assessment that val
 
 - [Community Notes](https://psychedelic-cuticle-e7d.notion.site/AWS-Machine-Learning-Engineer-Associate-MLA-C01-19686c7395e780e1bab0eac37d0401a0) from u/cgreciano — popular with the community. Use them as a **supplement**, not your only source.
 - [AWS Well-Architected — Machine Learning Lens](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/)
-- **AWS Skill Builder Microcredentials** — Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation. [Learn more](https://skillbuilder.aws/certification/microcredentials)
-- **AWS Customer Learning Programs** — Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint. [Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+### AWS Skill Builder Microcredentials
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+### AWS Customer Learning Programs
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
+### AWS SimuLearn Learning Plan Badges
+
+Official AWS interactive learning plans that validate practical cloud skills using simulated hands-on scenarios. Recommended for learners who want hands-on validation alongside certification preparation.
+
+[Learn more](https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/)
 
 ### New Question Types
 
@@ -236,4 +251,4 @@ Recommended study plan:
 - [Exam Benefits](../exam-benefits.md)
 - [TutorialsDojo](../tutorialsdojo.md)
 - [Projects & Hands-on](../projects-hands-on.md)
-- [Microcredentials](../microcredentials.md)
+- [AWS Learning Programs & Badges](../microcredentials.md)

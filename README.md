@@ -20,7 +20,7 @@ docs/
 ├── 404.md                    # Custom 404 page
 ├── faq.md                    # FAQ landing page
 ├── certification-pathways.md # 20+ career pathways
-├── microcredentials.md       # AWS Microcredentials guide
+├── microcredentials.md       # AWS Learning Programs & Badges
 ├── ...                       # 15+ additional FAQ and resource pages
 ├── foundational/             # Cloud Practitioner, AI Practitioner
 ├── associate/                # SAA, DVA, DEA, MLA, CloudOps

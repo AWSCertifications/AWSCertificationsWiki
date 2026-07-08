@@ -99,17 +99,23 @@ These are revision-focused courses organised by domain. Pair them with a paid vi
 
 If you subscribe to Skill Builder, consider the [Agentic AI Micro Credential](../microcredentials.md) — a hands-on, non-proctored assessment that covers many AIP curriculum areas and awards a digital badge.
 
-**AWS Skill Builder Microcredentials**
+### AWS Skill Builder Microcredentials
 
 Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
 
 [Learn more](https://skillbuilder.aws/certification/microcredentials)
 
-**AWS Customer Learning Programs**
+### AWS Customer Learning Programs
 
 Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
 
 [Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
+### AWS SimuLearn Learning Plan Badges
+
+Official AWS interactive learning plans that validate practical cloud skills using simulated hands-on scenarios. Recommended for learners who want hands-on validation alongside certification preparation.
+
+[Learn more](https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/)
 
 ---
 
@@ -242,5 +248,5 @@ Use them cautiously — they can give incorrect answers. Always double-check aga
 - [Free Learning](../free-learning.md)
 - [Exam Benefits](../exam-benefits.md)
 - [Tutorials Dojo](../tutorialsdojo.md)
-- [Microcredentials](../microcredentials.md)
+- [AWS Learning Programs & Badges](../microcredentials.md)
 - [Projects & Hands-on](../projects-hands-on.md)

@@ -7,16 +7,19 @@
 
 ## Platform Comparison
 
-| Provider | Best For | Free Tier | Guided Labs | Sandbox | Certification Focus |
-|----------|----------|-----------|-------------|---------|-------------------|
-| **AWS Free Tier** | Experimenting with real AWS services at no cost | ✅ Permanent | ❌ | ❌ | All certifications |
-| **AWS Skill Builder Labs** | Official guided labs aligned with exam objectives | ✅ 1 free lab/month | ✅ | ✅ | All certifications |
-| **AWS Builder Labs** | Browser-based step-by-step environments | ✅ Free tier includes labs | ✅ | ✅ | Associate and above |
-| **AWS Cloud Quest** | Gamified learning for beginners | ✅ 2 quests free | ✅ | ✅ | Foundational, Associate |
-| **KodeKloud** | Hands-on AWS and DevOps scenarios | ✅ Free labs available | ✅ | ✅ | Associate, Professional |
-| **Whizlabs** | AWS sandbox with exam-focused practice | ❌ | ❌ | ✅ | All certifications |
-| **Cloud Academy** | Structured learning paths with labs | ❌ | ✅ | ✅ | Associate, Professional, Specialty |
-| **A Cloud Guru / Pluralsight** | AWS sandbox and video courses | ❌ | ✅ | ✅ | All certifications |
+| Provider | Official AWS | Free/Paid | Guided Learning | Hands-on | Digital Badge | Best For |
+|----------|-------------|-----------|-----------------|----------|--------------|----------|
+| **AWS Free Tier** | ✅ | ✅ Free | ❌ | ❌ | ❌ | Experimenting with real AWS services at no cost |
+| **AWS Skill Builder Labs** | ✅ | ✅ 1 free/month | ✅ | ✅ | ❌ | Official guided labs aligned with exam objectives |
+| **AWS Builder Labs** | ✅ | ✅ Free tier includes labs | ✅ | ✅ | ❌ | Browser-based step-by-step environments |
+| **AWS Cloud Quest** | ✅ | ✅ 2 quests free | ✅ | ✅ | ✅ | Gamified learning for beginners |
+| **AWS Skill Builder Microcredentials** | ✅ | ❌ Requires subscription | ✅ | ✅ | ✅ | Topic-focused skill validation with hands-on assessment |
+| **AWS Customer Learning Programs** | ✅ | ✅ Free on Skill Builder | ✅ | ✅ | ✅ | Service-specific deep dives with digital badges |
+| **AWS SimuLearn Learning Plan Badges** | ✅ | ✅ 2 free, 10 sub only | ✅ | ✅ | ✅ | Hands-on skill validation with customer simulations |
+| **KodeKloud** | ❌ | ✅ Free labs available | ✅ | ✅ | ❌ | Hands-on AWS and DevOps scenarios |
+| **Whizlabs** | ❌ | ❌ Paid | ❌ | ✅ Sandbox | ❌ | AWS sandbox with exam-focused practice |
+| **Cloud Academy** | ❌ | ❌ Paid | ✅ | ✅ | ❌ | Structured learning paths with labs |
+| **A Cloud Guru / Pluralsight** | ❌ | ❌ Paid | ✅ | ✅ | ❌ | AWS sandbox and video courses |
 
 ---
 

@@ -180,8 +180,23 @@ Cloud Quest is a gamified 3D role-playing game that teaches AWS concepts through
 
 - [SkillBuilder ExamPrep Course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english) — 4.5-hour course covering exam domains and sample questions
 - [CLF-C02 notes by u/cgreciano](https://psychedelic-cuticle-e7b.notion.site/AWS-Cloud-Practitioner-CLF-C02-1cb86c7395e78094a7cfff1bcec54c81) — popular in the community. Use as a **complementary** resource, not your only source. Also check [his website](https://www.christiangreciano.com/).
-- **AWS Skill Builder Microcredentials** — Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation. [Learn more](https://skillbuilder.aws/certification/microcredentials)
-- **AWS Customer Learning Programs** — Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint. [Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+### AWS Skill Builder Microcredentials
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+### AWS Customer Learning Programs
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
+### AWS SimuLearn Learning Plan Badges
+
+Official AWS interactive learning plans that validate practical cloud skills using simulated hands-on scenarios. Recommended for learners who want hands-on validation alongside certification preparation.
+
+[Learn more](https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/)
 
 !!! tip
     Making your own notes or flashcards is always the best approach — the act of writing aids recollection.

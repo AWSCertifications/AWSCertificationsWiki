@@ -109,17 +109,23 @@ Approximately **70 hours** of free content.
 
 - Review advanced networking concepts from the [AWS Networking & Content Delivery blog](https://aws.amazon.com/blogs/networking-and-content-delivery/)
 
-**AWS Skill Builder Microcredentials**
+### AWS Skill Builder Microcredentials
 
 Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
 
 [Learn more](https://skillbuilder.aws/certification/microcredentials)
 
-**AWS Customer Learning Programs**
+### AWS Customer Learning Programs
 
 Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
 
 [Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
+### AWS SimuLearn Learning Plan Badges
+
+Official AWS interactive learning plans that validate practical cloud skills using simulated hands-on scenarios. Recommended for learners who want hands-on validation alongside certification preparation.
+
+[Learn more](https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/)
 
 ---
 

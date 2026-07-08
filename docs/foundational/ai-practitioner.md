@@ -166,9 +166,24 @@ Cloud Quest: Generative AI is a free gamified learning experience that covers Be
 - [AI Language Service Learning Plan](https://skillbuilder.aws/learning-plan/TKSBCYM1TR/ai-language-service-learning-plan/X4RNM6NX73)
 - [Foundations of Prompt Engineering](https://skillbuilder.aws/learn/VF6H4SZ1BU/foundations-of-prompt-engineering/7U8XFUVXDT)
 - [AWS Well-Architected — Generative AI on AWS](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-on-aws/)
-- [Microcredentials](../microcredentials.md) — hands-on skill validation
-- **AWS Skill Builder Microcredentials** — Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation. [Learn more](https://skillbuilder.aws/certification/microcredentials)
-- **AWS Customer Learning Programs** — Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint. [Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+- [AWS Learning Programs & Badges](../microcredentials.md) — hands-on skill validation
+### AWS Skill Builder Microcredentials
+
+Official AWS Skill Builder learning paths that include focused training, knowledge assessments, and digital badges. Useful for strengthening knowledge in specific AWS domains before or after certification preparation.
+
+[Learn more](https://skillbuilder.aws/certification/microcredentials)
+
+### AWS Customer Learning Programs
+
+Official AWS service-specific learning programs that award Credly digital badges. These programs help learners deepen knowledge of individual AWS services, products, and solution areas beyond the certification blueprint.
+
+[Explore programs](https://www.credly.com/organizations/amazon-web-services/collections/customer-learning-programs/badge_templates)
+
+### AWS SimuLearn Learning Plan Badges
+
+Official AWS interactive learning plans that validate practical cloud skills using simulated hands-on scenarios. Recommended for learners who want hands-on validation alongside certification preparation.
+
+[Learn more](https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/)
 
 ---
 
@@ -225,4 +240,4 @@ Not required. You can start directly with AI Practitioner.
 - [Free Learning](../free-learning.md)
 - [Digital Badges](../digital-badges.md)
 - [Exam Benefits](../exam-benefits.md)
-- [Microcredentials](../microcredentials.md)
+- [AWS Learning Programs & Badges](../microcredentials.md)
