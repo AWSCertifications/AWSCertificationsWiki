@@ -135,6 +135,12 @@ Official AWS interactive learning plans that validate practical cloud skills usi
 
 [Learn more](https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/)
 
+### AWS Builder Center Sandbox
+
+Official free temporary AWS environment for hands-on learning and certification practice.
+
+[https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/)
+
 ---
 
 ## Exam Prep
@@ -201,6 +207,21 @@ Based on the exam guide and community feedback, focus on these services:
 The AWS Free Tier covers key DEA services: AWS Glue (1 million objects/month), S3 (5 GB), Lambda (1 million requests), and Redshift (750 hours). Build ETL pipelines, data lakes, and analytics dashboards. Set up billing alerts and monitor usage to avoid unexpected charges.
 
 [AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Builder Center Sandbox (Official)
+
+- Official free AWS sandbox environment
+- No AWS account billing or credit card required
+- Temporary AWS environment for learning and experimentation
+- No risk of accidental AWS charges
+- Ideal for certification practice, workshops, and learning new AWS services
+- Sessions currently last up to 8 hours
+- Availability depends on supported Builder Center workshops
+
+Official announcement:
+https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/
+
+[AWS Builder Center Sandbox](../builder-center-sandbox.md) — more details about the Builder Center Sandbox program.
 
 ### AWS Skill Builder Labs
 

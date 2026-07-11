@@ -123,6 +123,12 @@ Official AWS interactive learning plans that validate practical cloud skills usi
 
 [Learn more](https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/)
 
+### AWS Builder Center Sandbox
+
+Official free temporary AWS environment for hands-on learning and certification practice.
+
+[https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/)
+
 ---
 
 ## Practice Exams
@@ -160,6 +166,21 @@ A Cloud Guru / Pluralsight — their courses have fallen behind. If you have fre
 The AWS Free Tier covers key SOA services: CloudFormation (free), Systems Manager (free), CloudWatch (10 metrics/dashboards), and Lambda (1 million requests). Build automated operational workflows, monitoring dashboards, and infrastructure-as-code templates. Set up billing alerts and monitor usage to avoid unexpected charges.
 
 [AWS Free Tier](https://aws.amazon.com/free/)
+
+### AWS Builder Center Sandbox (Official)
+
+- Official free AWS sandbox environment
+- No AWS account billing or credit card required
+- Temporary AWS environment for learning and experimentation
+- No risk of accidental AWS charges
+- Ideal for certification practice, workshops, and learning new AWS services
+- Sessions currently last up to 8 hours
+- Availability depends on supported Builder Center workshops
+
+Official announcement:
+https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/
+
+[AWS Builder Center Sandbox](../builder-center-sandbox.md) — more details about the Builder Center Sandbox program.
 
 ### AWS Builder Labs
 

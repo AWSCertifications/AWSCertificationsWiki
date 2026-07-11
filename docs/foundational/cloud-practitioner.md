@@ -154,6 +154,21 @@ The AWS Free Tier lets you experiment with core AWS services at no cost. Service
 
 [AWS Free Tier](https://aws.amazon.com/free/)
 
+### AWS Builder Center Sandbox (Official)
+
+- Official free AWS sandbox environment
+- No AWS account billing or credit card required
+- Temporary AWS environment for learning and experimentation
+- No risk of accidental AWS charges
+- Ideal for certification practice, workshops, and learning new AWS services
+- Sessions currently last up to 8 hours
+- Availability depends on supported Builder Center workshops
+
+Official announcement:
+https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/
+
+[AWS Builder Center Sandbox](../builder-center-sandbox.md) — more details about the Builder Center Sandbox program.
+
 ### AWS Skill Builder Labs
 
 Skill Builder offers guided labs aligned with Cloud Practitioner objectives. Labs provide temporary AWS accounts so you can practice without affecting your own resources.
@@ -197,6 +212,12 @@ Official AWS service-specific learning programs that award Credly digital badges
 Official AWS interactive learning plans that validate practical cloud skills using simulated hands-on scenarios. Recommended for learners who want hands-on validation alongside certification preparation.
 
 [Learn more](https://aws.amazon.com/blogs/training-and-certification/introducing-aws-simulearn-learning-plan-badges-verifiable-proof-of-hands-on-cloud-skills/)
+
+### AWS Builder Center Sandbox
+
+Official free temporary AWS environment for hands-on learning and certification practice.
+
+[https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/)
 
 !!! tip
     Making your own notes or flashcards is always the best approach — the act of writing aids recollection.

@@ -45,6 +45,11 @@ Before creating a post, please check whether your question is already answered h
     Practice labs, sandboxes, and real-world project ideas.
     [:octicons-arrow-right-24: Get hands-on](projects-hands-on.md)
 
+-   :material-cloud: __AWS Builder Center Sandbox__
+    ---
+    Official free sandbox — temporary AWS environment, no billing required.
+    [:octicons-arrow-right-24: Explore](builder-center-sandbox.md)
+
 -   :material-help-circle: __FAQ__
     ---
     Exam results, practice scores, Tutorials Dojo, and more.

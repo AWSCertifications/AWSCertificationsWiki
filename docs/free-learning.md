@@ -42,6 +42,9 @@ Resources that are **free to use** but typically require an **active AWS account
 
 - **AWS Workshops** – Curated workshop guides at <https://workshops.aws/>. Step-by-step, topic-specific, and free.
 
+- **AWS Builder Center Sandbox** – Official free temporary AWS environment. No account or credit card required. Sessions up to 8 hours with automatic cleanup.  
+  <https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/>
+
 - **AWS Builder Labs** – Free, guided labs within AWS Skill Builder that provide temporary AWS accounts.  
   <https://aws.amazon.com/training/digital/aws-builder-labs/>
 
@@ -54,6 +57,10 @@ Resources that are **free to use** but typically require an **active AWS account
   <https://cloudresumechallenge.dev/>
 
 - **Andrew Brown's AWS Project Bootcamp** – A free, project-based bootcamp covering real-world AWS scenarios (available on YouTube and GitHub).
+
+---
+
+> **Tip:** Consider using the **AWS Builder Center Sandbox** for risk-free practice without needing your own AWS account. It is ideal for certification preparation and workshop-based learning. See the [Builder Center Sandbox guide](builder-center-sandbox.md) for details.
 
 ---
 

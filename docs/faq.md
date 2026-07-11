@@ -46,6 +46,11 @@ Welcome to the r/AWSCertifications FAQ. Browse the topics below to find answers 
     Practice labs, sandboxes, and real-world project ideas.
     [:octicons-arrow-right-24: View](projects-hands-on.md)
 
+-   :material-cloud: __AWS Builder Center Sandbox__
+    ---
+    Official free sandbox — temporary AWS environment, no billing required.
+    [:octicons-arrow-right-24: Learn more](builder-center-sandbox.md)
+
 -   :material-scale-balance: __Community Rules__
     ---
     No dumps, no voucher resale, be civil.
