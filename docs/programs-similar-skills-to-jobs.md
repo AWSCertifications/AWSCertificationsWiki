@@ -337,6 +337,20 @@ AWS collaborates with non-profit organizations to deliver workforce development 
 
 ---
 
+## Seasonal AWS Programs
+
+AWS periodically launches seasonal and event-driven programs, including:
+
+- Builder Challenges
+- AI Get Certified Challenges
+- Summit promotions
+- Student campaigns
+- Community Builder campaigns
+
+[View Current Promotions](vouchers-discounts.md){: .hp-btn-primary }
+
+---
+
 ## Related Pages
 
 - [AWS Cloud Institute](aws-cloud-institute.md)

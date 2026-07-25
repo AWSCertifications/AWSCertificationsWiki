@@ -218,6 +218,16 @@ Skill Builder Labs require a Skill Builder subscription (limited free tier) and 
 
 ---
 
+## Builder Center Campaign Archive
+
+| Campaign | Reward | Status | Year |
+|----------|--------|--------|------|
+| Future Builder Center campaigns | Various | <span class="md-tag">Upcoming</span> | 2026+ |
+| July 2026 Builder Jacket Challenge | AWS Builder Jacket | <span class="md-tag">Closed</span> | 2026 |
+| July 2026 Builder Challenge | $100 AWS Credits | <span class="md-tag">Closed</span> | 2026 |
+
+---
+
 ## Related Pages
 
 - [Projects & Hands-on](projects-hands-on.md)

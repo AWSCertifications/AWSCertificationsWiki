@@ -38,6 +38,9 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+extra_css:
+  - assets/stylesheets/extra.css
+
 extra:
   social:
     - icon: fontawesome/brands/reddit
@@ -78,6 +81,10 @@ nav:
   - Certification Pathways: certification-pathways.md
 
   - Vouchers & Discounts: vouchers-discounts.md
+  
+  - Programs & Initiatives:
+      - Programs for Women, Military & Students: programs-similar-skills-to-jobs.md
+      - AWS Builder Center Sandbox: builder-center-sandbox.md
 
   - Programs & Initiatives:
       - AWS Cloud Institute: aws-cloud-institute.md

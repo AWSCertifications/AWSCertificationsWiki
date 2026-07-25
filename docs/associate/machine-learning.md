@@ -10,7 +10,9 @@
 
 **AWS Certified Machine Learning Engineer Associate** <span class="cert-level cert-level-associate">Associate</span>
 
-**MLA-C01**
+**Current Version:** MLA-C01
+
+**Next Version:** MLA-C02 (Beta announced)
 
 A comprehensive resource guide for the AWS Machine Learning Engineer Associate exam.
 
@@ -30,6 +32,52 @@ A comprehensive resource guide for the AWS Machine Learning Engineer Associate e
 
 !!! tip "Last Updated"
     This guide was last updated on **25 October 2025**.
+
+---
+## MLA-C02 Update
+
+AWS has announced the next version of this certification.
+
+The current **MLA-C01** remains available until **September 28, 2026 (English)**.
+
+Registration for the **MLA-C02 beta exam** opens on **September 1, 2026**, with beta delivery beginning on **September 29, 2026**.
+
+General availability is expected in **early 2027**.
+
+---
+
+## What's Changing in MLA-C02
+
+AWS has kept the high-level domain structure but expanded the exam content to include modern GenAI workloads. The existing ML Engineering and MLOps topics remain a core part of the certification, but the following major additions have been introduced:
+
+- Generative AI implementation and deployment
+- Foundation Models and Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI workflows
+- Amazon Bedrock
+- Fine-tuning foundation models
+- Responsible AI
+- Production-scale ML + GenAI operations
+
+### Important Dates
+
+| Event | Date |
+|-------|------|
+| MLA-C02 guide released | September 1, 2026 |
+| Beta registration opens | September 1, 2026 |
+| Last day to take MLA-C01 (English) | September 28, 2026 |
+| Beta delivery begins | September 29, 2026 |
+| General availability | Early 2027 |
+
+> **Preparing now?**
+>
+> If you're taking the exam before September 28, continue studying for MLA-C01.
+>
+> If you're planning for late 2026 or 2027, begin learning Amazon Bedrock, LLMs, RAG, and Agentic AI concepts in addition to traditional ML Engineering.
+
+### Official Announcement
+
+[Read the official AWS Training & Certification blog post announcing MLA-C02](https://aws.amazon.com/blogs/training-and-certification/)
 
 ## tl;dr
 

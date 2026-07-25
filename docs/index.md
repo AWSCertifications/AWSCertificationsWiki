@@ -1,201 +1,201 @@
-# r/AWSCertifications Wiki
-
-Welcome to the **community-maintained knowledge base** for [r/AWSCertifications](https://reddit.com/r/AWSCertifications) — your one-stop resource for AWS certification exam guides, discounts, study tips, and community-curated content.
-
-Before creating a post, please check whether your question is already answered here.
-
+---
+title: r/AWSCertifications Wiki
+description: Community-maintained certification guides, learning pathways, discounts, and study resources for every AWS Certification.
+hide:
+  - navigation
+  - toc
 ---
 
-## Quick Links
+<div class="hp-hero">
+  <div class="hp-hero__inner">
+    <span class="hp-hero__badge">Community Maintained</span>
+    <h1>AWS Certification Hub</h1>
+    <p class="hp-hero__desc">Everything you need to prepare for AWS Certifications.<br>Community-maintained exam guides, study resources, certification pathways, exam discounts, and official AWS programs.</p>
+    <div class="hp-hero__actions">
+      <a href="foundational/cloud-practitioner/" class="hp-btn-primary">Browse Certification Guides</a>
+      <a href="vouchers-discounts/" class="hp-btn-secondary">Vouchers &amp; Discounts</a>
+    </div>
+  </div>
+</div>
 
-<div class="grid cards" markdown>
+<div class="hp-guides">
 
--   :material-sign-direction: __Certification Pathways__
-    ---
-    20+ career pathways with recommended certs, skills, and timeline.
-    [:octicons-arrow-right-24: Find your path](certification-pathways.md)
+  <h2 class="hp-guides__group-title">Foundational</h2>
+  <div class="hp-cert-grid">
+    <a href="foundational/cloud-practitioner/" class="hp-cert-card">
+      <img src="assets/images/certifications/cloud-practitioner.png" alt="AWS Certified Cloud Practitioner badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">Cloud Practitioner</div>
+        <div class="hp-cert-card__code">CLF-C02</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+    <a href="foundational/ai-practitioner/" class="hp-cert-card">
+      <img src="assets/images/certifications/ai-practitioner.png" alt="AWS Certified AI Practitioner badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">AI Practitioner</div>
+        <div class="hp-cert-card__code">AIF-C01</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+  </div>
 
--   :material-ticket-percent: __Vouchers & Discounts__
-    ---
-    Active promotions, exam benefits, and money-saving tips.
-    [:octicons-arrow-right-24: Explore](vouchers-discounts.md)
+  <h2 class="hp-guides__group-title">Associate</h2>
+  <div class="hp-cert-grid">
+    <a href="associate/solutions-architect/" class="hp-cert-card">
+      <img src="assets/images/certifications/solutions-architect.png" alt="AWS Certified Solutions Architect Associate badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">Solutions Architect</div>
+        <div class="hp-cert-card__code">SAA-C03</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+    <a href="associate/developer/" class="hp-cert-card">
+      <img src="assets/images/certifications/developer.png" alt="AWS Certified Developer Associate badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">Developer</div>
+        <div class="hp-cert-card__code">DVA-C02</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+    <a href="associate/data-engineer/" class="hp-cert-card">
+      <img src="assets/images/certifications/data-engineer.png" alt="AWS Certified Data Engineer Associate badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">Data Engineer</div>
+        <div class="hp-cert-card__code">DEA-C01</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+    <a href="associate/machine-learning/" class="hp-cert-card">
+      <img src="assets/images/certifications/machine-learning.png" alt="AWS Certified Machine Learning Engineer Associate badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">Machine Learning Engineer</div>
+        <div class="hp-cert-card__code">MLA-C01</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+    <a href="associate/cloudops/" class="hp-cert-card">
+      <img src="assets/images/certifications/cloudops.png" alt="AWS Certified SysOps Administrator Associate badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">SysOps Administrator</div>
+        <div class="hp-cert-card__code">SOA-C02</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+  </div>
 
--   :material-certificate: __Exam Benefits__
-    ---
-    50% off your next exam, retake options, and partner programs.
-    [:octicons-arrow-right-24: Learn more](exam-benefits.md)
+  <h2 class="hp-guides__group-title">Professional</h2>
+  <div class="hp-cert-grid">
+    <a href="professional/solutions-architect-pro/" class="hp-cert-card">
+      <img src="assets/images/certifications/solutions-architect-pro.png" alt="AWS Certified Solutions Architect Professional badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">Solutions Architect Professional</div>
+        <div class="hp-cert-card__code">SAP-C02</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+    <a href="professional/devops-engineer-pro/" class="hp-cert-card">
+      <img src="assets/images/certifications/devops-engineer-pro.png" alt="AWS Certified DevOps Engineer Professional badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">DevOps Engineer Professional</div>
+        <div class="hp-cert-card__code">DOP-C02</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+    <a href="professional/genai-developer-pro/" class="hp-cert-card">
+      <img src="assets/images/certifications/genai-developer-pro.png" alt="AWS Certified GenAI Developer Professional badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">GenAI Developer Professional</div>
+        <div class="hp-cert-card__code">AIO-C00</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+  </div>
 
--   :material-school: __Free Learning__
-    ---
-    Free courses, labs, and resources for every skill level.
-    [:octicons-arrow-right-24: Start learning](free-learning.md)
-
--   :material-cloud: __AWS Programs__
-    ---
-    Cloud Institute, Community Builder, re/Start, and more.
-    [:octicons-arrow-right-24: Explore programs](programs-similar-skills-to-jobs.md)
-
--   :material-badge-account: __Digital Badges__
-    ---
-    Earn AWS Knowledge Badges — free, fast, and shareable.
-    [:octicons-arrow-right-24: Claim badges](digital-badges.md)
-
--   :material-tools: __Projects & Hands-on__
-    ---
-    Practice labs, sandboxes, and real-world project ideas.
-    [:octicons-arrow-right-24: Get hands-on](projects-hands-on.md)
-
--   :material-cloud: __AWS Builder Center Sandbox__
-    ---
-    Official free sandbox — temporary AWS environment, no billing required.
-    [:octicons-arrow-right-24: Explore](builder-center-sandbox.md)
-
--   :material-help-circle: __FAQ__
-    ---
-    Exam results, practice scores, Tutorials Dojo, and more.
-    [:octicons-arrow-right-24: Browse FAQ](faq.md)
+  <h2 class="hp-guides__group-title">Specialty</h2>
+  <div class="hp-cert-grid">
+    <a href="specialty/security/" class="hp-cert-card">
+      <img src="assets/images/certifications/security.png" alt="AWS Certified Security Specialty badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">Security</div>
+        <div class="hp-cert-card__code">SCS-C02</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+    <a href="specialty/advanced-networking/" class="hp-cert-card">
+      <img src="assets/images/certifications/advanced-networking.png" alt="AWS Certified Advanced Networking Specialty badge" class="hp-cert-card__badge">
+      <div class="hp-cert-card__body">
+        <div class="hp-cert-card__name">Advanced Networking</div>
+        <div class="hp-cert-card__code">ANS-C01</div>
+      </div>
+      <div class="hp-cert-card__cta">View Guide &#8594;</div>
+    </a>
+  </div>
 
 </div>
 
----
+<div class="hp-index">
+  <h2 class="hp-index__title">Documentation Index</h2>
+  <div class="hp-index-grid">
 
-## Featured Certifications
+    <div class="hp-index-card">
+      <div class="hp-index-card__title">Certification Pathways</div>
+      <ul class="hp-index-card__links">
+        <li><a href="certification-pathways/">Role-based certification roadmaps</a></li>
+      </ul>
+      <a href="certification-pathways/" class="hp-index-card__more">View &#8594;</a>
+    </div>
 
-Choose your certification path based on your goals and experience level. Each guide includes exam details, study resources, practice exams, and community tips.
+    <div class="hp-index-card">
+      <div class="hp-index-card__title">Vouchers &amp; Discounts</div>
+      <ul class="hp-index-card__links">
+        <li><a href="vouchers-discounts/">Exam vouchers and promotions</a></li>
+        <li><a href="exam-benefits/">Exam benefits</a></li>
+      </ul>
+      <a href="vouchers-discounts/" class="hp-index-card__more">View &#8594;</a>
+    </div>
 
-### Foundational
+    <div class="hp-index-card">
+      <div class="hp-index-card__title">Programs &amp; Initiatives</div>
+      <ul class="hp-index-card__links">
+        <li><a href="aws-community-builder/">AWS Community Builder</a></li>
+        <li><a href="aws-cloud-institute/">AWS Cloud Institute</a></li>
+        <li><a href="programs-similar-skills-to-jobs/">Women, Military &amp; Students</a></li>
+      </ul>
+      <a href="aws-community-builder/" class="hp-index-card__more">View &#8594;</a>
+    </div>
 
-<div class="badge-grid" markdown>
+    <div class="hp-index-card">
+      <div class="hp-index-card__title">FAQ</div>
+      <ul class="hp-index-card__links">
+        <li><a href="faq/">Frequently asked questions</a></li>
+        <li><a href="exam-results/">Exam results</a></li>
+        <li><a href="practice-exam-scores/">Practice exam scores</a></li>
+        <li><a href="builder-center-sandbox/">Builder Center Sandbox</a></li>
+      </ul>
+      <a href="faq/" class="hp-index-card__more">View &#8594;</a>
+    </div>
 
-[![Cloud Practitioner badge](assets/images/certifications/cloud-practitioner.png){ loading=lazy } Cloud Practitioner (CLF-C02)](foundational/cloud-practitioner.md)
+    <div class="hp-index-card">
+      <div class="hp-index-card__title">Study Resources</div>
+      <ul class="hp-index-card__links">
+        <li><a href="free-learning/">Free learning resources</a></li>
+        <li><a href="tutorialsdojo/">Tutorials Dojo</a></li>
+        <li><a href="projects-hands-on/">Projects &amp; hands-on labs</a></li>
+        <li><a href="practice-exam-scores/">Practice exam scores</a></li>
+      </ul>
+      <a href="free-learning/" class="hp-index-card__more">View &#8594;</a>
+    </div>
 
-[![AI Practitioner badge](assets/images/certifications/ai-practitioner.png){ loading=lazy } AI Practitioner (AIF-C01)](foundational/ai-practitioner.md)
+    <div class="hp-index-card">
+      <div class="hp-index-card__title">Badges &amp; Rewards</div>
+      <ul class="hp-index-card__links">
+        <li><a href="digital-badges/">Digital badges</a></li>
+        <li><a href="microcredentials/">AWS learning badges</a></li>
+        <li><a href="etc-rewards/">ETC rewards</a></li>
+      </ul>
+      <a href="digital-badges/" class="hp-index-card__more">View &#8594;</a>
+    </div>
 
+  </div>
 </div>
-
-### Associate
-
-<div class="badge-grid" markdown>
-
-[![Solutions Architect badge](assets/images/certifications/solutions-architect.png){ loading=lazy } Solutions Architect (SAA-C03)](associate/solutions-architect.md)
-
-[![Developer badge](assets/images/certifications/developer.png){ loading=lazy } Developer (DVA-C02)](associate/developer.md)
-
-[![Data Engineer badge](assets/images/certifications/data-engineer.png){ loading=lazy } Data Engineer (DEA-C01)](associate/data-engineer.md)
-
-[![ML Engineer badge](assets/images/certifications/machine-learning.png){ loading=lazy } ML Engineer (MLA-C01)](associate/machine-learning.md)
-
-[![CloudOps badge](assets/images/certifications/cloudops.png){ loading=lazy } CloudOps (SOA-C02/03)](associate/cloudops.md)
-
-</div>
-
-### Professional
-
-<div class="badge-grid" markdown>
-
-[![Solutions Architect Pro badge](assets/images/certifications/solutions-architect-pro.png){ loading=lazy } Solutions Architect Pro (SAP-C02)](professional/solutions-architect-pro.md)
-
-[![DevOps Engineer Pro badge](assets/images/certifications/devops-engineer-pro.png){ loading=lazy } DevOps Engineer Pro (DOP-C02)](professional/devops-engineer-pro.md)
-
-[![GenAI Developer Pro badge](assets/images/certifications/genai-developer-pro.png){ loading=lazy } GenAI Developer Pro (AIP-C01)](professional/genai-developer-pro.md)
-
-</div>
-
-### Specialty
-
-<div class="badge-grid" markdown>
-
-[![Security badge](assets/images/certifications/security.png){ loading=lazy } Security (SCS-C02)](specialty/security.md)
-
-[![Advanced Networking badge](assets/images/certifications/advanced-networking.png){ loading=lazy } Advanced Networking (ANS-C01)](specialty/advanced-networking.md)
-
-</div>
-
----
-
-## Wiki at a Glance
-
-<div class="stat-cards">
-
-<div class="stat-card">
-<div class="stat-number">20+</div>
-<div class="stat-label">Career Pathways</div>
-</div>
-
-<div class="stat-card">
-<div class="stat-number">11</div>
-<div class="stat-label">AWS Certifications</div>
-</div>
-
-<div class="stat-card">
-<div class="stat-number">4</div>
-<div class="stat-label">Certification Levels</div>
-</div>
-
-</div>
-
-Explore certification roadmaps for beginners, developers, architects, DevOps, AI/ML, security, networking, and many more.
-
-[View all certification pathways →](certification-pathways.md)
-
----
-
-## FAQ
-
-View all FAQ topics on the [FAQ page](faq.md).
-
-<div class="grid cards" markdown>
-
--   :material-clock-outline: __Exam Results__
-    ---
-    How long do results take? What about weekends?
-    [:octicons-arrow-right-24: View](exam-results.md)
-
--   :material-chart-bar: __Practice Exam Scores__
-    ---
-    What score means you're ready? How to interpret results.
-    [:octicons-arrow-right-24: View](practice-exam-scores.md)
-
--   :material-cart: __Tutorials Dojo__
-    ---
-    Udemy vs direct purchase — which is better?
-    [:octicons-arrow-right-24: View](tutorialsdojo.md)
-
--   :material-gift: __ETC Rewards__
-    ---
-    What happened to the Emerging Talent Community program?
-    [:octicons-arrow-right-24: View](etc-rewards.md)
-
--   :material-microscope: __AWS Learning Programs & Badges__
-    ---
-    Official AWS learning programs, microcredentials, and badges.
-    [:octicons-arrow-right-24: View](microcredentials.md)
-
--   :material-scale-balance: __Community Rules__
-    ---
-    No dumps, no voucher resale, be civil.
-    [:octicons-arrow-right-24: View](subreddit-rules.md)
-
-</div>
-
----
-
-## Community Resources
-
-- **r/AWSCertifications** — [Join the subreddit](https://reddit.com/r/AWSCertifications) for discussions, study groups, and exam experiences
-- **AWS Skill Builder** — [skillbuilder.aws](https://skillbuilder.aws/) — official AWS learning platform
-- **AWS Documentation** — [docs.aws.amazon.com](https://docs.aws.amazon.com/) — official service documentation
-- **AWS re:Post** — [repost.aws](https://repost.aws/) — community Q&A platform
-- **AWS Events** — [aws.amazon.com/events](https://aws.amazon.com/events/) — free workshops and webinars
-- **AWS Community Builders** — [Join the program](aws-community-builder.md) — support for AWS content creators
-- **AWS Programs Hub** — [Explore initiatives](programs-similar-skills-to-jobs.md) — re/Start, Educate, Academy, and more
-
----
-
-## Contributing
-
-This wiki is maintained by the **r/AWSCertifications community**. Found outdated information or have a better resource?
-
-- **Open a pull request** on [GitHub](https://github.com/AWSCertifications/AWSCertificationsWiki)
-- **Create an issue** to report problems or suggest improvements
-- **Read the contributor guide** for more details

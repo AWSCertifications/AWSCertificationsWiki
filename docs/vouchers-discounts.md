@@ -5,7 +5,59 @@ For those looking to lower the burden of exam costs, this page tracks known AWS 
 !!! tip "Last Updated"
     This page was last updated on **14 June 2026**. Promotions change frequently — check terms and expiration dates.
 
-## Active Promotions
+## Current Promotions
+
+### AWS AI Get Certified Challenge (Central & Eastern Europe)
+
+**Status:** <span class="md-tag">Active</span>
+
+**Reward:**
+- 3 months AWS Skill Builder Premium
+- 50% AWS Certification exam voucher
+
+**Eligibility:**
+Residents of eligible Central & Eastern European countries only.
+
+**Registration closes:**
+15 August 2026
+
+!!! note
+    This is a regional promotion limited to specific countries.
+
+---
+
+### AWS Summit Student Certification Voucher Giveaways
+
+**Status:** <span class="md-tag">Event-specific</span>
+
+**Reward:**
+Free AWS Foundational certification voucher (selected student participants)
+
+Available at selected AWS Summit events.
+
+!!! note
+    Availability depends on the individual Summit and participation requirements.
+
+---
+
+### AWS Builder Challenges
+
+**Status:** <span class="md-tag">Varies throughout the year</span>
+
+**Typical rewards include:**
+- AWS Credits
+- AWS Builder swag
+- Event rewards
+- Builder recognition
+
+New Builder Challenges are announced periodically on [AWS Builder Center](builder-center-sandbox.md).
+
+!!! note
+    Past Builder Challenges (such as the July 2026 Jacket Challenge and July 2026 AWS Credits Challenge) are archived below.
+
+---
+
+## Active Discounts
 
 ### 50% Off AI Practitioner + Free Cloud Practitioner
 
@@ -136,7 +188,19 @@ Limited to **one voucher per participant**. Terms and conditions apply.
 
 ---
 
-## Expired Promotions
+## Past Promotions
+
+### July 2026 Builder Jacket Challenge
+
+**Status:** <span class="md-tag">Closed</span>
+
+### July 2026 Builder Challenge ($100 AWS Credits)
+
+**Status:** <span class="md-tag">Closed</span>
+
+---
+
+## Expired Discounts
 
 ### Expired 15 February 2026
 
